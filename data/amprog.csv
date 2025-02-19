@@ -1,0 +1,395 @@
+Question,OBJ,Length,Participant,Acceptability,Duration,Type,Item,Aspect
+Ich bin am wandern.,NO,1,amprog13903.csv,5,852,pres,2,activity
+Ich bin am wandern.,NO,1,amprog16663.csv,1,394,prog,2,activity
+Ich bin am wandern.,NO,1,amprog19726.csv,4,866,prog,11,activity
+Ich bin am wandern.,NO,1,amprog19868.csv,4,814,pres,15,accomplishment
+Ich bin am wandern.,NO,1,amprog22056.csv,4,816,prog,15,accomplishment
+Ich bin am wandern.,NO,1,amprog24489.csv,4,753,pres,20,state
+Ich bin am wandern.,NO,1,amprog30218.csv,5,810,pres,22,activity
+Ich bin am wandern.,NO,1,amprog31684.csv,4,805,pres,23,activity
+Ich bin am wandern.,NO,1,amprog43404.csv,5,848,prog,27,state
+Ich bin am wandern.,NO,0,amprog4867.csv,2,742,pres,4,accomplishment
+Ich bin am wandern.,NO,0,amprog49146.csv,1,743,prog,4,accomplishment
+Ich bin am wandern.,NO,0,amprog49866.csv,2,921,pres,5,accomplishment
+Ich bin am wandern.,NO,0,amprog59967.csv,4,608,pres,16,accomplishment
+Ich bin am wandern.,NO,0,amprog60072.csv,4,744,prog,16,accomplishment
+Ich bin am wandern.,NO,0,amprog74069.csv,5,987,pres,24,activity
+Ich bin am wandern.,NO,-1,amprog84875.csv,4,244,pres,1,achievement
+Ich bin am wandern.,NO,-1,amprog84892.csv,3,612,prog,1,achievement
+Ich bin am wandern.,NO,-1,amprog94201.csv,4,755,pres,8,activity
+Ich bin am wandern.,NO,-1,aspect,2,633,prog,8,activity
+Ich bin am laufen.,NO,1,amprog19475.csv,5,500,pres,11,activity
+Ich bin am laufen.,NO,1,amprog29941.csv,3,500,prog,20,state
+Ich bin am laufen.,NO,1,amprog314.csv,4,689,prog,22,activity
+Ich bin am laufen.,NO,1,amprog36797.csv,5,684,prog,23,activity
+Ich bin am laufen.,NO,1,amprog40060.csv,3,638,pres,26,activity
+Ich bin am laufen.,NO,1,amprog40130.csv,5,575,prog,26,activity
+Ich bin am laufen.,NO,1,amprog40218.csv,2,772,pres,27,state
+Ich bin am laufen.,NO,1,amprog43826.csv,5,842,pres,28,accomplishment
+Ich bin am laufen.,NO,1,amprog46551.csv,3,763,prog,28,accomplishment
+Ich bin am laufen.,NO,0,amprog54072.csv,4,991,prog,5,accomplishment
+Ich bin am laufen.,NO,0,amprog55298.csv,1,500,pres,12,accomplishment
+Ich bin am laufen.,NO,0,amprog58325.csv,5,500,prog,12,accomplishment
+Ich bin am laufen.,NO,0,amprog7575.csv,2,711,prog,24,activity
+Ich bin am laufen.,NO,0,amprog77907.csv,5,609,pres,30,activity
+Ich bin am laufen.,NO,0,amprog79033.csv,5,763,prog,30,activity
+Ich bin am laufen.,NO,-1,amprog8772.csv,1,750,pres,7,accomplishment
+Ich bin am laufen.,NO,-1,amprog88016.csv,5,724,prog,7,accomplishment
+Ich bin ein Haus am bauen.,YES,1,amprog13903.csv,5,963,pres,2,activity
+Ich bin ein Haus am bauen.,YES,1,amprog16663.csv,1,594,prog,2,activity
+Ich bin ein Haus am bauen.,YES,1,amprog19726.csv,4,994,prog,11,activity
+Ich bin ein Haus am bauen.,YES,1,amprog19868.csv,4,986,pres,15,accomplishment
+Ich bin ein Haus am bauen.,YES,1,amprog22056.csv,2,775,prog,15,accomplishment
+Ich bin ein Haus am bauen.,YES,1,amprog24489.csv,4,1000,pres,20,state
+Ich bin ein Haus am bauen.,YES,1,amprog30218.csv,5,1000,pres,22,activity
+Ich bin ein Haus am bauen.,YES,1,amprog31684.csv,4,921,pres,23,activity
+Ich bin ein Haus am bauen.,YES,1,amprog43404.csv,5,1000,prog,27,state
+Ich bin ein Haus am bauen.,YES,0,amprog4867.csv,2,992,pres,4,accomplishment
+Ich bin ein Haus am bauen.,YES,0,amprog49146.csv,1,899,prog,4,accomplishment
+Ich bin ein Haus am bauen.,YES,0,amprog49866.csv,2,981,pres,5,accomplishment
+Ich bin ein Haus am bauen.,YES,0,amprog59967.csv,4,871,pres,16,accomplishment
+Ich bin ein Haus am bauen.,YES,0,amprog60072.csv,1,1000,prog,16,accomplishment
+Ich bin ein Haus am bauen.,YES,0,amprog74069.csv,4,989,pres,24,activity
+Ich bin ein Haus am bauen.,YES,-1,amprog84875.csv,4,500,pres,1,achievement
+Ich bin ein Haus am bauen.,YES,-1,amprog84892.csv,2,500,prog,1,achievement
+Ich bin ein Haus am bauen.,YES,-1,amprog94201.csv,3,1000,pres,8,activity
+Ich bin ein Haus am bauen.,YES,-1,aspect,1,500,prog,8,activity
+Ich bin am warten.,NO,1,amprog19475.csv,4,500,pres,11,activity
+Ich bin am warten.,NO,1,amprog29941.csv,2,746,prog,20,state
+Ich bin am warten.,NO,1,amprog314.csv,3,732,prog,22,activity
+Ich bin am warten.,NO,1,amprog36797.csv,5,569,prog,23,activity
+Ich bin am warten.,NO,1,amprog40060.csv,5,716,pres,26,activity
+Ich bin am warten.,NO,1,amprog40130.csv,2,991,prog,26,activity
+Ich bin am warten.,NO,1,amprog40218.csv,3,486,pres,27,state
+Ich bin am warten.,NO,1,amprog43826.csv,5,846,pres,28,accomplishment
+Ich bin am warten.,NO,1,amprog46551.csv,3,911,prog,28,accomplishment
+Ich bin am warten.,NO,0,amprog54072.csv,5,747,prog,5,accomplishment
+Ich bin am warten.,NO,0,amprog55298.csv,1,500,pres,12,accomplishment
+Ich bin am warten.,NO,0,amprog58325.csv,5,500,prog,12,accomplishment
+Ich bin am warten.,NO,0,amprog7575.csv,2,645,prog,24,activity
+Ich bin am warten.,NO,0,amprog77907.csv,5,673,pres,30,activity
+Ich bin am warten.,NO,0,amprog79033.csv,4,500,prog,30,activity
+Ich bin am warten.,NO,-1,amprog8772.csv,2,685,pres,7,accomplishment
+Ich bin am warten.,NO,-1,amprog88016.csv,4,722,prog,7,accomplishment
+Ich bin am basteln.,NO,1,amprog13903.csv,5,300,pres,2,activity
+Ich bin am basteln.,NO,1,amprog16663.csv,1,225,prog,2,activity
+Ich bin am basteln.,NO,1,amprog19726.csv,5,721,prog,11,activity
+Ich bin am basteln.,NO,1,amprog19868.csv,5,589,pres,15,accomplishment
+Ich bin am basteln.,NO,1,amprog22056.csv,3,816,prog,15,accomplishment
+Ich bin am basteln.,NO,1,amprog24489.csv,5,502,pres,20,state
+Ich bin am basteln.,NO,1,amprog30218.csv,5,500,pres,22,activity
+Ich bin am basteln.,NO,1,amprog31684.csv,4,769,pres,23,activity
+Ich bin am basteln.,NO,1,amprog43404.csv,5,824,prog,27,state
+Ich bin am basteln.,NO,0,amprog4867.csv,4,825,pres,4,accomplishment
+Ich bin am basteln.,NO,0,amprog49146.csv,2,579,prog,4,accomplishment
+Ich bin am basteln.,NO,0,amprog49866.csv,3,262,pres,5,accomplishment
+Ich bin am basteln.,NO,0,amprog59967.csv,4,500,pres,16,accomplishment
+Ich bin am basteln.,NO,0,amprog60072.csv,2,709,prog,16,accomplishment
+Ich bin am basteln.,NO,0,amprog74069.csv,5,977,pres,24,activity
+Ich bin am basteln.,NO,-1,amprog84875.csv,4,188,pres,1,achievement
+Ich bin am basteln.,NO,-1,amprog84892.csv,3,659,prog,1,achievement
+Ich bin am basteln.,NO,-1,amprog94201.csv,4,396,pres,8,activity
+Ich bin am basteln.,NO,-1,aspect,4,500,prog,8,activity
+Ich bin am trainieren,NO,1,amprog19475.csv,4,500,pres,11,activity
+Ich bin am trainieren,NO,1,amprog29941.csv,2,638,prog,20,state
+Ich bin am trainieren,NO,1,amprog314.csv,4,670,prog,22,activity
+Ich bin am trainieren,NO,1,amprog36797.csv,5,996,prog,23,activity
+Ich bin am trainieren,NO,1,amprog40060.csv,5,378,pres,26,activity
+Ich bin am trainieren,NO,1,amprog40130.csv,5,568,prog,26,activity
+Ich bin am trainieren,NO,1,amprog40218.csv,5,500,pres,27,state
+Ich bin am trainieren,NO,1,amprog43826.csv,5,1000,pres,28,accomplishment
+Ich bin am trainieren,NO,1,amprog46551.csv,3,948,prog,28,accomplishment
+Ich bin am trainieren,NO,0,amprog54072.csv,5,780,prog,5,accomplishment
+Ich bin am trainieren,NO,0,amprog55298.csv,1,500,pres,12,accomplishment
+Ich bin am trainieren,NO,0,amprog58325.csv,5,500,prog,12,accomplishment
+Ich bin am trainieren,NO,0,amprog7575.csv,4,865,prog,24,activity
+Ich bin am trainieren,NO,0,amprog77907.csv,5,607,pres,30,activity
+Ich bin am trainieren,NO,0,amprog79033.csv,5,500,prog,30,activity
+Ich bin am trainieren,NO,-1,amprog8772.csv,5,754,pres,7,accomplishment
+Ich bin am trainieren,NO,-1,amprog88016.csv,4,694,prog,7,accomplishment
+Ich bin am arbeiten.,NO,1,amprog19475.csv,5,500,pres,11,activity
+Ich bin am arbeiten.,NO,1,amprog29941.csv,2,705,prog,20,state
+Ich bin am arbeiten.,NO,1,amprog314.csv,4,672,prog,22,activity
+Ich bin am arbeiten.,NO,1,amprog36797.csv,5,748,prog,23,activity
+Ich bin am arbeiten.,NO,1,amprog40060.csv,5,958,pres,26,activity
+Ich bin am arbeiten.,NO,1,amprog40130.csv,5,709,prog,26,activity
+Ich bin am arbeiten.,NO,1,amprog40218.csv,2,805,pres,27,state
+Ich bin am arbeiten.,NO,1,amprog43826.csv,5,809,pres,28,accomplishment
+Ich bin am arbeiten.,NO,1,amprog46551.csv,4,929,prog,28,accomplishment
+Ich bin am arbeiten.,NO,0,amprog54072.csv,5,989,prog,5,accomplishment
+Ich bin am arbeiten.,NO,0,amprog55298.csv,1,500,pres,12,accomplishment
+Ich bin am arbeiten.,NO,0,amprog58325.csv,5,500,prog,12,accomplishment
+Ich bin am arbeiten.,NO,0,amprog7575.csv,5,793,prog,24,activity
+Ich bin am arbeiten.,NO,0,amprog77907.csv,5,636,pres,30,activity
+Ich bin am arbeiten.,NO,0,amprog79033.csv,5,928,prog,30,activity
+Ich bin am arbeiten.,NO,-1,amprog8772.csv,5,885,pres,7,accomplishment
+Ich bin am arbeiten.,NO,-1,amprog88016.csv,5,798,prog,7,accomplishment
+Ich bin am schlafen.,NO,1,amprog13903.csv,2,833,pres,2,activity
+Ich bin am schlafen.,NO,1,amprog16663.csv,1,329,prog,2,activity
+Ich bin am schlafen.,NO,1,amprog19726.csv,5,793,prog,11,activity
+Ich bin am schlafen.,NO,1,amprog19868.csv,4,781,pres,15,accomplishment
+Ich bin am schlafen.,NO,1,amprog22056.csv,4,902,prog,15,accomplishment
+Ich bin am schlafen.,NO,1,amprog24489.csv,5,768,pres,20,state
+Ich bin am schlafen.,NO,1,amprog30218.csv,5,666,pres,22,activity
+Ich bin am schlafen.,NO,1,amprog31684.csv,4,826,pres,23,activity
+Ich bin am schlafen.,NO,1,amprog43404.csv,5,751,prog,27,state
+Ich bin am schlafen.,NO,0,amprog4867.csv,1,776,pres,4,accomplishment
+Ich bin am schlafen.,NO,0,amprog49146.csv,1,749,prog,4,accomplishment
+Ich bin am schlafen.,NO,0,amprog49866.csv,2,79,pres,5,accomplishment
+Ich bin am schlafen.,NO,0,amprog59967.csv,3,573,pres,16,accomplishment
+Ich bin am schlafen.,NO,0,amprog60072.csv,2,970,prog,16,accomplishment
+Ich bin am schlafen.,NO,0,amprog74069.csv,4,982,pres,24,activity
+Ich bin am schlafen.,NO,-1,amprog84875.csv,4,249,pres,1,achievement
+Ich bin am schlafen.,NO,-1,amprog84892.csv,3,791,prog,1,achievement
+Ich bin am schlafen.,NO,-1,amprog94201.csv,4,807,pres,8,activity
+Ich bin am schlafen.,NO,-1,aspect,3,500,prog,8,activity
+Ich bin einen Zeitungsartikel am lesen.,YES,1,amprog19475.csv,4,257,pres,11,activity
+Ich bin einen Zeitungsartikel am lesen.,YES,1,amprog29941.csv,2,1000,prog,20,state
+Ich bin einen Zeitungsartikel am lesen.,YES,1,amprog314.csv,3,654,prog,22,activity
+Ich bin einen Zeitungsartikel am lesen.,YES,1,amprog36797.csv,3,573,prog,23,activity
+Ich bin einen Zeitungsartikel am lesen.,YES,1,amprog40060.csv,4,420,pres,26,activity
+Ich bin einen Zeitungsartikel am lesen.,YES,1,amprog40130.csv,2,652,prog,26,activity
+Ich bin einen Zeitungsartikel am lesen.,YES,1,amprog40218.csv,2,367,pres,27,state
+Ich bin einen Zeitungsartikel am lesen.,YES,1,amprog43826.csv,3,682,pres,28,accomplishment
+Ich bin einen Zeitungsartikel am lesen.,YES,1,amprog46551.csv,3,592,prog,28,accomplishment
+Ich bin einen Zeitungsartikel am lesen.,YES,0,amprog54072.csv,4,459,prog,5,accomplishment
+Ich bin einen Zeitungsartikel am lesen.,YES,0,amprog55298.csv,1,500,pres,12,accomplishment
+Ich bin einen Zeitungsartikel am lesen.,YES,0,amprog58325.csv,5,500,prog,12,accomplishment
+Ich bin einen Zeitungsartikel am lesen.,YES,0,amprog7575.csv,4,653,prog,24,activity
+Ich bin einen Zeitungsartikel am lesen.,YES,0,amprog77907.csv,4,417,pres,30,activity
+Ich bin einen Zeitungsartikel am lesen.,YES,0,amprog79033.csv,1,500,prog,30,activity
+Ich bin einen Zeitungsartikel am lesen.,YES,-1,amprog8772.csv,1,861,pres,7,accomplishment
+Ich bin einen Zeitungsartikel am lesen.,YES,-1,amprog88016.csv,2,704,prog,7,accomplishment
+Ich bin eine Suppe am kochen.,YES,1,amprog13903.csv,5,144,pres,2,activity
+Ich bin eine Suppe am kochen.,YES,1,amprog16663.csv,1,639,prog,2,activity
+Ich bin eine Suppe am kochen.,YES,1,amprog19726.csv,3,775,prog,11,activity
+Ich bin eine Suppe am kochen.,YES,1,amprog19868.csv,5,670,pres,15,accomplishment
+Ich bin eine Suppe am kochen.,YES,1,amprog22056.csv,3,688,prog,15,accomplishment
+Ich bin eine Suppe am kochen.,YES,1,amprog24489.csv,4,508,pres,20,state
+Ich bin eine Suppe am kochen.,YES,1,amprog30218.csv,5,500,pres,22,activity
+Ich bin eine Suppe am kochen.,YES,1,amprog31684.csv,4,582,pres,23,activity
+Ich bin eine Suppe am kochen.,YES,1,amprog43404.csv,5,667,prog,27,state
+Ich bin eine Suppe am kochen.,YES,0,amprog4867.csv,1,398,pres,4,accomplishment
+Ich bin eine Suppe am kochen.,YES,0,amprog49146.csv,1,568,prog,4,accomplishment
+Ich bin eine Suppe am kochen.,YES,0,amprog49866.csv,2,611,pres,5,accomplishment
+Ich bin eine Suppe am kochen.,YES,0,amprog59967.csv,4,409,pres,16,accomplishment
+Ich bin eine Suppe am kochen.,YES,0,amprog60072.csv,2,589,prog,16,accomplishment
+Ich bin eine Suppe am kochen.,YES,0,amprog74069.csv,5,693,pres,24,activity
+Ich bin eine Suppe am kochen.,YES,-1,amprog84875.csv,4,252,pres,1,achievement
+Ich bin eine Suppe am kochen.,YES,-1,amprog84892.csv,2,603,prog,1,achievement
+Ich bin eine Suppe am kochen.,YES,-1,amprog94201.csv,3,308,pres,8,activity
+Ich bin eine Suppe am kochen.,YES,-1,aspect,1,500,prog,8,activity
+Ich bin einen Brief am schreiben.,YES,1,amprog19475.csv,4,500,pres,11,activity
+Ich bin einen Brief am schreiben.,YES,1,amprog29941.csv,1,792,prog,20,state
+Ich bin einen Brief am schreiben.,YES,1,amprog314.csv,4,659,prog,22,activity
+Ich bin einen Brief am schreiben.,YES,1,amprog36797.csv,3,702,prog,23,activity
+Ich bin einen Brief am schreiben.,YES,1,amprog40060.csv,4,581,pres,26,activity
+Ich bin einen Brief am schreiben.,YES,1,amprog40130.csv,1,547,prog,26,activity
+Ich bin einen Brief am schreiben.,YES,1,amprog40218.csv,2,500,pres,27,state
+Ich bin einen Brief am schreiben.,YES,1,amprog43826.csv,2,820,pres,28,accomplishment
+Ich bin einen Brief am schreiben.,YES,1,amprog46551.csv,3,763,prog,28,accomplishment
+Ich bin einen Brief am schreiben.,YES,0,amprog54072.csv,5,786,prog,5,accomplishment
+Ich bin einen Brief am schreiben.,YES,0,amprog55298.csv,1,500,pres,12,accomplishment
+Ich bin einen Brief am schreiben.,YES,0,amprog58325.csv,4,500,prog,12,accomplishment
+Ich bin einen Brief am schreiben.,YES,0,amprog7575.csv,5,391,prog,24,activity
+Ich bin einen Brief am schreiben.,YES,0,amprog77907.csv,4,594,pres,30,activity
+Ich bin einen Brief am schreiben.,YES,0,amprog79033.csv,2,727,prog,30,activity
+Ich bin einen Brief am schreiben.,YES,-1,amprog8772.csv,1,713,pres,7,accomplishment
+Ich bin einen Brief am schreiben.,YES,-1,amprog88016.csv,2,633,prog,7,accomplishment
+Ich bin einen Kuchen am backen.,YES,1,amprog19475.csv,3,641,pres,11,activity
+Ich bin einen Kuchen am backen.,YES,1,amprog29941.csv,3,830,prog,20,state
+Ich bin einen Kuchen am backen.,YES,1,amprog314.csv,4,677,prog,22,activity
+Ich bin einen Kuchen am backen.,YES,1,amprog36797.csv,2,629,prog,23,activity
+Ich bin einen Kuchen am backen.,YES,1,amprog40060.csv,4,629,pres,26,activity
+Ich bin einen Kuchen am backen.,YES,1,amprog40130.csv,1,699,prog,26,activity
+Ich bin einen Kuchen am backen.,YES,1,amprog40218.csv,2,742,pres,27,state
+Ich bin einen Kuchen am backen.,YES,1,amprog43826.csv,2,1000,pres,28,accomplishment
+Ich bin einen Kuchen am backen.,YES,1,amprog46551.csv,3,817,prog,28,accomplishment
+Ich bin einen Kuchen am backen.,YES,0,amprog54072.csv,5,998,prog,5,accomplishment
+Ich bin einen Kuchen am backen.,YES,0,amprog55298.csv,1,500,pres,12,accomplishment
+Ich bin einen Kuchen am backen.,YES,0,amprog58325.csv,4,500,prog,12,accomplishment
+Ich bin einen Kuchen am backen.,YES,0,amprog7575.csv,5,616,prog,24,activity
+Ich bin einen Kuchen am backen.,YES,0,amprog77907.csv,4,625,pres,30,activity
+Ich bin einen Kuchen am backen.,YES,0,amprog79033.csv,2,690,prog,30,activity
+Ich bin einen Kuchen am backen.,YES,-1,amprog8772.csv,1,646,pres,7,accomplishment
+Ich bin einen Kuchen am backen.,YES,-1,amprog88016.csv,2,831,prog,7,accomplishment
+Ich bin die Steuererklärung am machen.,YES,1,amprog19475.csv,2,500,pres,11,activity
+Ich bin die Steuererklärung am machen.,YES,1,amprog29941.csv,1,634,prog,20,state
+Ich bin die Steuererklärung am machen.,YES,1,amprog314.csv,3,560,prog,22,activity
+Ich bin die Steuererklärung am machen.,YES,1,amprog36797.csv,3,864,prog,23,activity
+Ich bin die Steuererklärung am machen.,YES,1,amprog40060.csv,3,1000,pres,26,activity
+Ich bin die Steuererklärung am machen.,YES,1,amprog40130.csv,1,789,prog,26,activity
+Ich bin die Steuererklärung am machen.,YES,1,amprog40218.csv,1,656,pres,27,state
+Ich bin die Steuererklärung am machen.,YES,1,amprog43826.csv,2,1000,pres,28,accomplishment
+Ich bin die Steuererklärung am machen.,YES,1,amprog46551.csv,2,679,prog,28,accomplishment
+Ich bin die Steuererklärung am machen.,YES,0,amprog54072.csv,5,859,prog,5,accomplishment
+Ich bin die Steuererklärung am machen.,YES,0,amprog55298.csv,1,500,pres,12,accomplishment
+Ich bin die Steuererklärung am machen.,YES,0,amprog58325.csv,5,500,prog,12,accomplishment
+Ich bin die Steuererklärung am machen.,YES,0,amprog7575.csv,5,599,prog,24,activity
+Ich bin die Steuererklärung am machen.,YES,0,amprog77907.csv,4,802,pres,30,activity
+Ich bin die Steuererklärung am machen.,YES,0,amprog79033.csv,1,826,prog,30,activity
+Ich bin die Steuererklärung am machen.,YES,-1,amprog8772.csv,1,925,pres,7,accomplishment
+Ich bin die Steuererklärung am machen.,YES,-1,amprog88016.csv,3,838,prog,7,accomplishment
+Ich bin den Haustürschlüssel am suchen.,YES,1,amprog13903.csv,5,249,pres,2,activity
+Ich bin den Haustürschlüssel am suchen.,YES,1,amprog16663.csv,1,401,prog,2,activity
+Ich bin den Haustürschlüssel am suchen.,YES,1,amprog19726.csv,4,500,prog,11,activity
+Ich bin den Haustürschlüssel am suchen.,YES,1,amprog19868.csv,5,192,pres,15,accomplishment
+Ich bin den Haustürschlüssel am suchen.,YES,1,amprog22056.csv,3,736,prog,15,accomplishment
+Ich bin den Haustürschlüssel am suchen.,YES,1,amprog24489.csv,4,608,pres,20,state
+Ich bin den Haustürschlüssel am suchen.,YES,1,amprog30218.csv,5,451,pres,22,activity
+Ich bin den Haustürschlüssel am suchen.,YES,1,amprog31684.csv,4,508,pres,23,activity
+Ich bin den Haustürschlüssel am suchen.,YES,1,amprog43404.csv,5,551,prog,27,state
+Ich bin den Haustürschlüssel am suchen.,YES,0,amprog4867.csv,1,549,pres,4,accomplishment
+Ich bin den Haustürschlüssel am suchen.,YES,0,amprog49146.csv,1,363,prog,4,accomplishment
+Ich bin den Haustürschlüssel am suchen.,YES,0,amprog49866.csv,2,129,pres,5,accomplishment
+Ich bin den Haustürschlüssel am suchen.,YES,0,amprog59967.csv,4,500,pres,16,accomplishment
+Ich bin den Haustürschlüssel am suchen.,YES,0,amprog60072.csv,3,279,prog,16,accomplishment
+Ich bin den Haustürschlüssel am suchen.,YES,0,amprog74069.csv,5,817,pres,24,activity
+Ich bin den Haustürschlüssel am suchen.,YES,-1,amprog84875.csv,4,205,pres,1,achievement
+Ich bin den Haustürschlüssel am suchen.,YES,-1,amprog84892.csv,3,225,prog,1,achievement
+Ich bin den Haustürschlüssel am suchen.,YES,-1,amprog94201.csv,3,131,pres,8,activity
+Ich bin den Haustürschlüssel am suchen.,YES,-1,aspect,1,498,prog,8,activity
+Ich bin am einkaufen.,NO,1,amprog19475.csv,4,500,pres,11,activity
+Ich bin am einkaufen.,NO,1,amprog29941.csv,2,590,prog,20,state
+Ich bin am einkaufen.,NO,1,amprog314.csv,4,764,prog,22,activity
+Ich bin am einkaufen.,NO,1,amprog36797.csv,5,654,prog,23,activity
+Ich bin am einkaufen.,NO,1,amprog40060.csv,5,719,pres,26,activity
+Ich bin am einkaufen.,NO,1,amprog40130.csv,5,622,prog,26,activity
+Ich bin am einkaufen.,NO,1,amprog40218.csv,4,689,pres,27,state
+Ich bin am einkaufen.,NO,1,amprog43826.csv,5,717,pres,28,accomplishment
+Ich bin am einkaufen.,NO,1,amprog46551.csv,3,770,prog,28,accomplishment
+Ich bin am einkaufen.,NO,0,amprog54072.csv,5,897,prog,5,accomplishment
+Ich bin am einkaufen.,NO,0,amprog55298.csv,1,500,pres,12,accomplishment
+Ich bin am einkaufen.,NO,0,amprog58325.csv,5,500,prog,12,accomplishment
+Ich bin am einkaufen.,NO,0,amprog7575.csv,5,735,prog,24,activity
+Ich bin am einkaufen.,NO,0,amprog77907.csv,5,543,pres,30,activity
+Ich bin am einkaufen.,NO,0,amprog79033.csv,5,500,prog,30,activity
+Ich bin am einkaufen.,NO,-1,amprog8772.csv,2,759,pres,7,accomplishment
+Ich bin am einkaufen.,NO,-1,amprog88016.csv,4,743,prog,7,accomplishment
+Ich bin die Flasche am öffnen.,YES,1,amprog19475.csv,3,160,pres,11,activity
+Ich bin die Flasche am öffnen.,YES,1,amprog29941.csv,1,500,prog,20,state
+Ich bin die Flasche am öffnen.,YES,1,amprog314.csv,3,116,prog,22,activity
+Ich bin die Flasche am öffnen.,YES,1,amprog36797.csv,2,61,prog,23,activity
+Ich bin die Flasche am öffnen.,YES,1,amprog40060.csv,4,242,pres,26,activity
+Ich bin die Flasche am öffnen.,YES,1,amprog40130.csv,1,33,prog,26,activity
+Ich bin die Flasche am öffnen.,YES,1,amprog40218.csv,2,15,pres,27,state
+Ich bin die Flasche am öffnen.,YES,1,amprog43826.csv,2,500,pres,28,accomplishment
+Ich bin die Flasche am öffnen.,YES,1,amprog46551.csv,3,267,prog,28,accomplishment
+Ich bin die Flasche am öffnen.,YES,0,amprog54072.csv,5,221,prog,5,accomplishment
+Ich bin die Flasche am öffnen.,YES,0,amprog55298.csv,1,500,pres,12,accomplishment
+Ich bin die Flasche am öffnen.,YES,0,amprog58325.csv,4,500,prog,12,accomplishment
+Ich bin die Flasche am öffnen.,YES,0,amprog7575.csv,2,62,prog,24,activity
+Ich bin die Flasche am öffnen.,YES,0,amprog77907.csv,4,55,pres,30,activity
+Ich bin die Flasche am öffnen.,YES,0,amprog79033.csv,1,33,prog,30,activity
+Ich bin die Flasche am öffnen.,YES,-1,amprog8772.csv,1,832,pres,7,accomplishment
+Ich bin die Flasche am öffnen.,YES,-1,amprog88016.csv,2,18,prog,7,accomplishment
+Ich bin meine Schuhe am binden.,YES,1,amprog19475.csv,3,121,pres,11,activity
+Ich bin meine Schuhe am binden.,YES,1,amprog29941.csv,2,757,prog,20,state
+Ich bin meine Schuhe am binden.,YES,1,amprog314.csv,3,258,prog,22,activity
+Ich bin meine Schuhe am binden.,YES,1,amprog36797.csv,3,165,prog,23,activity
+Ich bin meine Schuhe am binden.,YES,1,amprog40060.csv,4,277,pres,26,activity
+Ich bin meine Schuhe am binden.,YES,1,amprog40130.csv,1,218,prog,26,activity
+Ich bin meine Schuhe am binden.,YES,1,amprog40218.csv,1,1,pres,27,state
+Ich bin meine Schuhe am binden.,YES,1,amprog43826.csv,2,136,pres,28,accomplishment
+Ich bin meine Schuhe am binden.,YES,1,amprog46551.csv,3,413,prog,28,accomplishment
+Ich bin meine Schuhe am binden.,YES,0,amprog54072.csv,5,500,prog,5,accomplishment
+Ich bin meine Schuhe am binden.,YES,0,amprog55298.csv,1,500,pres,12,accomplishment
+Ich bin meine Schuhe am binden.,YES,0,amprog58325.csv,5,500,prog,12,accomplishment
+Ich bin meine Schuhe am binden.,YES,0,amprog7575.csv,4,126,prog,24,activity
+Ich bin meine Schuhe am binden.,YES,0,amprog77907.csv,4,75,pres,30,activity
+Ich bin meine Schuhe am binden.,YES,0,amprog79033.csv,1,206,prog,30,activity
+Ich bin meine Schuhe am binden.,YES,-1,amprog8772.csv,1,699,pres,7,accomplishment
+Ich bin meine Schuhe am binden.,YES,-1,amprog88016.csv,2,379,prog,7,accomplishment
+Ich bin mit den Fingern am schnipsen.,YES,1,amprog13903.csv,4,76,pres,2,activity
+Ich bin mit den Fingern am schnipsen.,YES,1,amprog16663.csv,1,741,prog,2,activity
+Ich bin mit den Fingern am schnipsen.,YES,1,amprog19726.csv,4,500,prog,11,activity
+Ich bin mit den Fingern am schnipsen.,YES,1,amprog19868.csv,5,9,pres,15,accomplishment
+Ich bin mit den Fingern am schnipsen.,YES,1,amprog22056.csv,2,399,prog,15,accomplishment
+Ich bin mit den Fingern am schnipsen.,YES,1,amprog24489.csv,3,1,pres,20,state
+Ich bin mit den Fingern am schnipsen.,YES,1,amprog30218.csv,5,452,pres,22,activity
+Ich bin mit den Fingern am schnipsen.,YES,1,amprog31684.csv,4,151,pres,23,activity
+Ich bin mit den Fingern am schnipsen.,YES,1,amprog43404.csv,5,1,prog,27,state
+Ich bin mit den Fingern am schnipsen.,YES,0,amprog4867.csv,2,427,pres,4,accomplishment
+Ich bin mit den Fingern am schnipsen.,YES,0,amprog49146.csv,2,360,prog,4,accomplishment
+Ich bin mit den Fingern am schnipsen.,YES,0,amprog49866.csv,2,92,pres,5,accomplishment
+Ich bin mit den Fingern am schnipsen.,YES,0,amprog59967.csv,4,292,pres,16,accomplishment
+Ich bin mit den Fingern am schnipsen.,YES,0,amprog60072.csv,2,117,prog,16,accomplishment
+Ich bin mit den Fingern am schnipsen.,YES,0,amprog74069.csv,4,172,pres,24,activity
+Ich bin mit den Fingern am schnipsen.,YES,-1,amprog84875.csv,4,172,pres,1,achievement
+Ich bin mit den Fingern am schnipsen.,YES,-1,amprog84892.csv,3,377,prog,1,achievement
+Ich bin mit den Fingern am schnipsen.,YES,-1,amprog94201.csv,3,64,pres,8,activity
+Ich bin mit den Fingern am schnipsen.,YES,-1,aspect,1,679,prog,8,activity
+Ich bin einen Ball am werfen.,YES,1,amprog19475.csv,3,140,pres,11,activity
+Ich bin einen Ball am werfen.,YES,1,amprog29941.csv,1,891,prog,20,state
+Ich bin einen Ball am werfen.,YES,1,amprog314.csv,3,1,prog,22,activity
+Ich bin einen Ball am werfen.,YES,1,amprog36797.csv,2,30,prog,23,activity
+Ich bin einen Ball am werfen.,YES,1,amprog40060.csv,2,81,pres,26,activity
+Ich bin einen Ball am werfen.,YES,1,amprog40130.csv,1,145,prog,26,activity
+Ich bin einen Ball am werfen.,YES,1,amprog40218.csv,1,65,pres,27,state
+Ich bin einen Ball am werfen.,YES,1,amprog43826.csv,2,1,pres,28,accomplishment
+Ich bin einen Ball am werfen.,YES,1,amprog46551.csv,3,86,prog,28,accomplishment
+Ich bin einen Ball am werfen.,YES,0,amprog54072.csv,5,7,prog,5,accomplishment
+Ich bin einen Ball am werfen.,YES,0,amprog55298.csv,1,500,pres,12,accomplishment
+Ich bin einen Ball am werfen.,YES,0,amprog58325.csv,5,500,prog,12,accomplishment
+Ich bin einen Ball am werfen.,YES,0,amprog7575.csv,1,40,prog,24,activity
+Ich bin einen Ball am werfen.,YES,0,amprog77907.csv,4,159,pres,30,activity
+Ich bin einen Ball am werfen.,YES,0,amprog79033.csv,1,500,prog,30,activity
+Ich bin einen Ball am werfen.,YES,-1,amprog8772.csv,1,203,pres,7,accomplishment
+Ich bin einen Ball am werfen.,YES,-1,amprog88016.csv,1,333,prog,7,accomplishment
+Ich bin am aufwachen.,NO,1,amprog13903.csv,4,260,pres,2,activity
+Ich bin am aufwachen.,NO,1,amprog16663.csv,1,340,prog,2,activity
+Ich bin am aufwachen.,NO,1,amprog19726.csv,2,235,prog,11,activity
+Ich bin am aufwachen.,NO,1,amprog19868.csv,4,46,pres,15,accomplishment
+Ich bin am aufwachen.,NO,1,amprog22056.csv,1,4,prog,15,accomplishment
+Ich bin am aufwachen.,NO,1,amprog24489.csv,4,125,pres,20,state
+Ich bin am aufwachen.,NO,1,amprog30218.csv,5,196,pres,22,activity
+Ich bin am aufwachen.,NO,1,amprog31684.csv,4,558,pres,23,activity
+Ich bin am aufwachen.,NO,1,amprog43404.csv,5,232,prog,27,state
+Ich bin am aufwachen.,NO,0,amprog4867.csv,4,411,pres,4,accomplishment
+Ich bin am aufwachen.,NO,0,amprog49146.csv,2,375,prog,4,accomplishment
+Ich bin am aufwachen.,NO,0,amprog49866.csv,3,517,pres,5,accomplishment
+Ich bin am aufwachen.,NO,0,amprog59967.csv,3,346,pres,16,accomplishment
+Ich bin am aufwachen.,NO,0,amprog60072.csv,2,284,prog,16,accomplishment
+Ich bin am aufwachen.,NO,0,amprog74069.csv,2,145,pres,24,activity
+Ich bin am aufwachen.,NO,-1,amprog84875.csv,4,245,pres,1,achievement
+Ich bin am aufwachen.,NO,-1,amprog84892.csv,2,383,prog,1,achievement
+Ich bin am aufwachen.,NO,-1,amprog94201.csv,4,97,pres,8,activity
+Ich bin am aufwachen.,NO,-1,aspect,2,500,prog,8,activity
+Ich bin einen Knopf am drücken.,YES,1,amprog13903.csv,4,5,pres,2,activity
+Ich bin einen Knopf am drücken.,YES,1,amprog16663.csv,1,605,prog,2,activity
+Ich bin einen Knopf am drücken.,YES,1,amprog19726.csv,2,72,prog,11,activity
+Ich bin einen Knopf am drücken.,YES,1,amprog19868.csv,4,119,pres,15,accomplishment
+Ich bin einen Knopf am drücken.,YES,1,amprog22056.csv,1,9,prog,15,accomplishment
+Ich bin einen Knopf am drücken.,YES,1,amprog24489.csv,3,1,pres,20,state
+Ich bin einen Knopf am drücken.,YES,1,amprog30218.csv,5,500,pres,22,activity
+Ich bin einen Knopf am drücken.,YES,1,amprog31684.csv,4,273,pres,23,activity
+Ich bin einen Knopf am drücken.,YES,1,amprog43404.csv,5,15,prog,27,state
+Ich bin einen Knopf am drücken.,YES,0,amprog4867.csv,1,198,pres,4,accomplishment
+Ich bin einen Knopf am drücken.,YES,0,amprog49146.csv,1,147,prog,4,accomplishment
+Ich bin einen Knopf am drücken.,YES,0,amprog49866.csv,1,26,pres,5,accomplishment
+Ich bin einen Knopf am drücken.,YES,0,amprog59967.csv,4,86,pres,16,accomplishment
+Ich bin einen Knopf am drücken.,YES,0,amprog60072.csv,1,70,prog,16,accomplishment
+Ich bin einen Knopf am drücken.,YES,0,amprog74069.csv,4,824,pres,24,activity
+Ich bin einen Knopf am drücken.,YES,-1,amprog84875.csv,4,2,pres,1,achievement
+Ich bin einen Knopf am drücken.,YES,-1,amprog84892.csv,2,207,prog,1,achievement
+Ich bin einen Knopf am drücken.,YES,-1,amprog94201.csv,3,1,pres,8,activity
+Ich bin einen Knopf am drücken.,YES,-1,aspect,1,500,prog,8,activity
+Ich bin ein Buch am aufschlagen.,YES,1,amprog13903.csv,2,1,pres,2,activity
+Ich bin ein Buch am aufschlagen.,YES,1,amprog16663.csv,1,649,prog,2,activity
+Ich bin ein Buch am aufschlagen.,YES,1,amprog19726.csv,3,115,prog,11,activity
+Ich bin ein Buch am aufschlagen.,YES,1,amprog19868.csv,3,1,pres,15,accomplishment
+Ich bin ein Buch am aufschlagen.,YES,1,amprog22056.csv,3,14,prog,15,accomplishment
+Ich bin ein Buch am aufschlagen.,YES,1,amprog24489.csv,2,1,pres,20,state
+Ich bin ein Buch am aufschlagen.,YES,1,amprog30218.csv,5,100,pres,22,activity
+Ich bin ein Buch am aufschlagen.,YES,1,amprog31684.csv,4,344,pres,23,activity
+Ich bin ein Buch am aufschlagen.,YES,1,amprog43404.csv,4,96,prog,27,state
+Ich bin ein Buch am aufschlagen.,YES,0,amprog4867.csv,1,21,pres,4,accomplishment
+Ich bin ein Buch am aufschlagen.,YES,0,amprog49146.csv,1,82,prog,4,accomplishment
+Ich bin ein Buch am aufschlagen.,YES,0,amprog49866.csv,1,23,pres,5,accomplishment
+Ich bin ein Buch am aufschlagen.,YES,0,amprog59967.csv,4,105,pres,16,accomplishment
+Ich bin ein Buch am aufschlagen.,YES,0,amprog60072.csv,1,95,prog,16,accomplishment
+Ich bin ein Buch am aufschlagen.,YES,0,amprog74069.csv,4,178,pres,24,activity
+Ich bin ein Buch am aufschlagen.,YES,-1,amprog84875.csv,4,1,pres,1,achievement
+Ich bin ein Buch am aufschlagen.,YES,-1,amprog84892.csv,2,161,prog,1,achievement
+Ich bin ein Buch am aufschlagen.,YES,-1,amprog94201.csv,3,1,pres,8,activity
+Ich bin ein Buch am aufschlagen.,YES,-1,aspect,2,500,prog,8,activity

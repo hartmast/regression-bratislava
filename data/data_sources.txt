@@ -1,0 +1,19 @@
+Data sources:
+
+- all_chains.csv: from Tinits, Nölle & Hartmann (2017), CC-BY license
+- baayen_2008_rts.csv: from Baayen's (2008) LanguageR package, GPL license
+- howell.csv: from McElreath (2021), https://github.com/rmcelreath/rethinking/blob/master/data/Howell1.csv
+- perry_winter_2017_iconicity.csv, from Winter (2020), https://osf.io/34mq9/
+- transitions_rmld.csv, from Sonderegger (2022), https://osf.io/pnumg/
+- tulips.csv: from McElreath (2021), https://github.com/rmcelreath/rethinking/blob/master/data/tulips.csv
+
+
+References
+----------
+Baayen, R. Harald. 2008. Analyzing Linguistic Data: A Practical Introduction to Statistics Using R. Cambridge: Cambridge University Press.
+McElreath, Richard. 2020. Statistical Rethinking. A Bayesian Course with R and Stan. 2nd edn. Boca Raton: CRC Press.
+Sonderegger, Morgan. 2023. Regression modeling for linguistic data. Cambridge, Massachusetts: The MIT Press.
+Tinits, Peeter, Jonas Nölle & Stefan Hartmann. 2017. Usage context influences the evolution of overspecification in iterated learning. Journal of Language Evolution 2(2). 148–159. https://doi.org/10.1093/jole/lzx011.
+Winter, Bodo. 2019. Statistics for linguists: an introduction using R. New York: Routledge.
+
+

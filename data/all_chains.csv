@@ -1,0 +1,1313 @@
+filename	trial_type	topic_obj	topic_col	topic_loc	backgr_obj	backgr_col	backgr_loc	words	Gen_1	Gen_2	Gen_3	Gen_4	Gen_5	condition	chain
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meep	control	1
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb	control	1
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meep	control	1
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meeb	meeb li	meep lo	control	1
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb	meeb	control	1
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb	meep	control	1
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb 	meeb li	control	1
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb li	meep lo	control	1
+05.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop	fop	feeb	fleeb	control	1
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop	fop	fleep	fleeb	control	1
+06.png	sin	cup	blue	cent	no	no	no	fop	fop	yan	fop	fleep li	fleeb	control	1
+06d.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	fop	feep	fleeb	control	1
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fop li	fop li	fop li	fleeb	fleeb	control	1
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fop li	fop li	fop li	feep	fleeb li	control	1
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fop pu	fop pu	fop pu	feep li	fleeb li	control	1
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop pu	fop pu	fop pu	feep li	fleeb li	control	1
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	1
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	1
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur li	pur li 	control	1
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur li	kur li	control	1
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur li	kur li	kur	kur	control	1
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur	kur	control	1
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur pu	kur pu	kur li	kur li	control	1
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur pu	kur pu	kur	kur li	control	1
+13.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	1
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	1
+14.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan	yan li	control	1
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	feep li	yan	control	1
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	fop li	yan li	yan li	feep	yan	control	1
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yan li	yan	yan	control	1
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	fop pu	yan pu	yan pu	feep li	yan li 	control	1
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	yan pu	yan pu	yan li	yan li	control	1
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meep	meep	meep	control	2
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meep	meep	meep	control	2
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb pur	meeb	meep	meep	meep	control	2
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meep	meep	meep	control	2
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meep pur	meeb li	meep li	meep li	control	2
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb pur	meep li	meep li	meep li	control	2
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pur	meeb li	meeb li	meep li	meep li	control	2
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pur	meeb pur	meep pur	meep li	meep li	control	2
+05.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop	fop	meep	pur	control	2
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop	fop	pur	pur	control	2
+06.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	fop	pur	pur	control	2
+06d.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	fop	pur	pur	control	2
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fop li	fop li	fop li	pur	pur li	control	2
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fop li	meeb li	fop li	pur li	pur li	control	2
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fop pur	fop li	fop li	pur li	pur li	control	2
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop pur	fop li	fop pur	pur li	pur li	control	2
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur 	kur	kur	kur	control	2
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	2
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	2
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	2
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur pur	kur li	kur li	kur li	control	2
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur	kur li	control	2
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pur	kur li	kur li	kur li	kur li	control	2
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pur	kur li	kur li	kur li	kur li	control	2
+13.png	sin	book	yellow	cent	no	no	no	yan	yak	yak	yak	yak	yak	control	2
+13d.png	sin	book	yellow	cent	no	no	no	yan	yak	yak	yak	yak	yak	control	2
+14.png	sin	book	blue	cent	no	no	no	yan	yak	yak	yak	yak	yak	control	2
+14d.png	sin	book	blue	cent	no	no	no	yan	yak	yak	yak	yak	yak	control	2
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yak li	yak lo	yak li	pur li	yak li	control	2
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yak li	yak li	yak li	yak li	yak li	control	2
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yak pur	yap li	yak pur	yak	yak li	control	2
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yak pur	yak pur	yak pur	yak li	yak li	control	2
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb	control	3
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb li	control	3
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb	control	3
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb ku	control	3
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	3
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	3
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb ku	meeb ku	meeb ku	meeb ku	control	3
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb ku	meeb ku	meeb ku	meeb ku	control	3
+05.png	sin	cup	yellow	cent	no	no	no	fop	fop li	fop	fop	fob	yan li	control	3
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop	fop li	fob	yan li	control	3
+06.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	fop pu	fob	yan ku	control	3
+06d.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	fop	fob	yan ku	control	3
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fop li	fop li	fop li	fob li	 yen li	control	3
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fop li	fop li	fop li	fob li	neb li	control	3
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fop pu	fop ku	fop ku	fob ku	kub ku	control	3
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop pu	fop ku	fop ku	fob ku	yan ku	control	3
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kub li	control	3
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kub li	control	3
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kub ku	control	3
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kub	control	3
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur li	kur li	kur ku	yan li	control	3
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur li	kub li	control	3
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kub ku	control	3
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur pu	kur pu	kur ku	kub ku	control	3
+13.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan	yan li	control	3
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan	yan li	control	3
+14.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan	yan ku	control	3
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan pu	yan	yan ku	control	3
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yan li	yan li	yan li	yan li	yan li	control	3
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yan li	yan li	yan li	control	3
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yan ku	yan ku	yan ku	yan ku	control	3
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	yan pu	yan pu	yan ku	yan ku	control	3
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meep	meep	meep	meep	meep li	control	4
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meep	meep	meep	meep	meep li	control	4
+02.png	sin	pen	blue	cent	no	no	no	meeb	meep	meep	meep	meep	meep pu	control	4
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meep	meep	meep	meep	meep pu	control	4
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meep li	meep li	meep li	meep li	meep li	control	4
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meep li	meep li	meep li	meep li	meep li	control	4
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meep pu	meep pu	meep pu	meep pu	meep pu	control	4
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meep pu	meep pu	yan pu	meep pu	meep pu	control	4
+05.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop	pef	pef	puf li	control	4
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop	pef	pef	puf li	control	4
+06.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	pef pu	pef	puf pu	control	4
+06d.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	pef	pef	puf pu	control	4
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fop li	fop li	pef li	pef li	puf li	control	4
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fop li	fop li	pef le	pef li	puf li	control	4
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fop pu	fop pu	meep pu	pef pu	puf pu	control	4
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop pu	fop pu	puf pu	pef pu	puf pu	control	4
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur li	control	4
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur li	control	4
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur pu	control	4
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur pu	control	4
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	control	4
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	control	4
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur	kur pu	kur li	kur pu	control	4
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur	kur	kur li	kur pu	kur pu	control	4
+13.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan li	yan	yan li	control	4
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan	yan li	control	4
+14.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan	yan pu	control	4
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	yan	meep	yan	yan pu	control	4
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yan li	yan li	yan li	yan li	yan li	control	4
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yan li	yan li	yan li	control	4
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yan pu	yan pu	li pu	yan pu	control	4
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	yan pu	yan pu	yan li	yan pu	control	4
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb li	meeb li	meeb li	li	meeb li	control	5
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb li	meeb li	li	li	meeb li	control	5
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb pu	pu	meeb pu	meeb pu	meeb pu	control	5
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	5
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	yan li	li	li	control	5
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	li	meeb li	control	5
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	5
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb bpu	pu	meeb pu	control	5
+05.png	sin	cup	yellow	cent	no	no	no	fop	yan li	yan li	li	li	li	control	5
+05d.png	sin	cup	yellow	cent	no	no	no	fop	yan li	li	li	li	li	control	5
+06.png	sin	cup	blue	cent	no	no	no	fop	yan pu	pu	pu	pu	pu	control	5
+06d.png	sin	cup	blue	cent	no	no	no	fop	pu	yan pu	pu	pu	pu	control	5
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	yan li	li	yan li	li	li	control	5
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	yan li	yan li	yan li	li	li	control	5
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	yan pu	yan pu	yan pu	pu	pu	control	5
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	yan pu	yan pu	yan pu	pu	pu	control	5
+09.png	sin	ball	yellow	cent	no	no	no	kur	yan	li	li	li	li	control	5
+09d.png	sin	ball	yellow	cent	no	no	no	kur	li	li	li	li	li	control	5
+10.png	sin	ball	blue	cent	no	no	no	kur	pu	pu	pu	pu	pu	control	5
+10d.png	sin	ball	blue	cent	no	no	no	kur	pu	pu	pu	pu	pu	control	5
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	li	li	yan li	li	li	control	5
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	li	li	yan li	li	li	control	5
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	pu	pu	yan pu	pu	pu	control	5
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	pu	pu	yan pu	pu	pu	control	5
+13.png	sin	book	yellow	cent	no	no	no	yan	li	yan li	li	li	li	control	5
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan	yan li	li	li	li	control	5
+14.png	sin	book	blue	cent	no	no	no	yan	yan	yan pu	pu	pu	pu	control	5
+14d.png	sin	book	blue	cent	no	no	no	yan	pu	pu	pu	pu	pu	control	5
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	li	yan li	yan li	li	li	control	5
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yan li	li	li	control	5
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	pu	pu	yan pu	pu	pu	control	5
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	pu	yan pu	pu	pu	control	5
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb li	meeb li	meeb li	yang li	control	6
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb li	meeb li	meeb li	yang li	control	6
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb pu	meeb pu	meeb pu	yang pu	control	6
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb pu	meeb pu	meeb pu	yang pu	control	6
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	yang li	control	6
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	yang li	control	6
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	yang pu	control	6
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	mong pu	control	6
+05.png	sin	cup	yellow	cent	no	no	no	fop	fop	li	li	li	li	control	6
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fop	li	li	li	li	control	6
+06.png	sin	cup	blue	cent	no	no	no	fop	fop	pu	pu	pu	pu	control	6
+06d.png	sin	cup	blue	cent	no	no	no	fop	fop	pu	pu	pu	pu	control	6
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fop li	li	li	li	li	control	6
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fop li	li	li	li	li	control	6
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fop pu	pu	pu	pu	pu	control	6
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop pu	pu	pu	pu	pu	control	6
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur li	kur li	kur li	kur li	control	6
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur li	kur li	kur li	kur li	control	6
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur pu	kur pu	kur pu	kur pu	control	6
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur pu	kur pu	kur pu	kur pu	control	6
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	control	6
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	control	6
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	6
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	6
+13.png	sin	book	yellow	cent	no	no	no	yan	yan	yan li	yang li	yang li	li	control	6
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan	yan li	yang pu	yang li	yang li	control	6
+14.png	sin	book	blue	cent	no	no	no	yan	yan	yan pu	yam pu	yang pu	yang pu	control	6
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	yan pu	yan pu	yang pu	pu	control	6
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yan li	yan li	yang li	yang li	mong li	control	6
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yang pu	yang li	yang li	control	6
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yan pu	yan pu	yang pu	yang pu	control	6
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	yan pu	yan pu	yang pu	pu	control	6
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	no	nope	no	no	control	7
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	no	no	no	no	control	7
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb	no	kur	no	no	control	7
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meedam	no	no	kur	control	7
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	yan li	meedam	no	no	no	control	7
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	sorry :)	no	no	no	control	7
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meelab	no	nope	no	control	7
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	i give up	nope	no	no	control	7
+05.png	sin	cup	yellow	cent	no	no	no	fop	fop	nope	fur	no	no	control	7
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fur	fur	no	no	no	control	7
+06.png	sin	cup	blue	cent	no	no	no	fop	fan	no	fur	no	no	control	7
+06d.png	sin	cup	blue	cent	no	no	no	fop	fop	kur	no	nope	no	control	7
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fop li	no	nope	no	no	control	7
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fop li	no	fur li	no	no	control	7
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fop pu	fur	kur li	no	kur li	control	7
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop pu	no	no	nope	no	control	7
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur li	kur	fur	no	no	control	7
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	no	kur	no	no	control	7
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	no	nop	no	control	7
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	no	no	no	no	control	7
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	no	no	kur li	no	control	7
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	no	no	kur li	no	control	7
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	no	no	nope	no	control	7
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	I really tried to remember but no.	kur li	no	no	control	7
+13.png	sin	book	yellow	cent	no	no	no	yan	yan	meelab	no	kur li	no	control	7
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan	no	no	no	no	control	7
+14.png	sin	book	blue	cent	no	no	no	yan	yan	no idea	no	no	no	control	7
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	no	no	no	no	control	7
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yan li	kur li	no	nope	no	control	7
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	pur li	meelab	kur	no	control	7
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	no	no	no	no	control	7
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	no	meedam	fur	no	control	7
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meeb li	meeb li	meeb	control	8
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb li	meeb li	meeb	meeb	control	8
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meeb pu	meeb	meeb pu	control	8
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meeb	meeb pu	meeb	control	8
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meep pu	meeb li	meeb li	meeb li	meeb li	control	8
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	8
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	8
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb li	meeb pu	meeb pu	meeb pu	meeb	control	8
+05.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop li	fop	fop	yun	control	8
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop li	fop	fop	fop	control	8
+06.png	sin	cup	blue	cent	no	no	no	fop	fop	fop pu	fop	fop	fop	control	8
+06d.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	fop	fop	fop	control	8
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fop li	fop li	fop li	fop li	fop li	control	8
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fop li	fop li	yan li	fop li	fop li	control	8
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fop p	fop pu	fop pu	fop pu	yun pu	control	8
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop pu	fop pu	fop pu	fop pu	fop pu	control	8
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	8
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur li	kur	kur	kur	control	8
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur pu	kur pu	kur	control	8
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur pu	kur pu	kur	kur	control	8
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	control	8
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	control	8
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	8
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur pu	kur li	kur pu	kur pu	control	8
+13.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan li	yun li	yun	control	8
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan li	yun li	yun	control	8
+14.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan pu	yun	yun	control	8
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yun	yun	control	8
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yan li	yan li	yan li	yun li	yun li	control	8
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yan li	yun li	yun li	control	8
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yan pu	yan pu	yun pu	yun pu	control	8
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan	yan pu	yan pu	yun pu	yun pu	control	8
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meep	meep li	meep li	control	9
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meep	meep li	meep li	control	9
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meep	meep pu	meep pu	control	9
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meep 	meep	meep li	control	9
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meep li	li	li	control	9
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meep li	meep li	control	9
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	pu	pu	control	9
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meep pu	meep pu	pu	control	9
+05.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop	li	li	li	control	9
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop	li	li	li	control	9
+06.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	pu	pu	pu	control	9
+06d.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	pu	pu	pu	control	9
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fop li	fop li	li	li	li	control	9
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fop li	fop li	li 	li	li	control	9
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fop pu	fop pu	pu	pu	pu	control	9
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop pu	kur pu	pu	pu	pu	control	9
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur li	kur li	control	9
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur li	li	kur li	control	9
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	pu	pu	control	9
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur pu	kur pu	kur pu	control	9
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	control	9
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur li	li	control	9
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur pu	kur pu	pu	pu	control	9
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur pu	kur pu	pu	pu	control	9
+13.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan li	yan li	control	9
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan li	yan li	control	9
+14.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan pu	uan pu	control	9
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan pu	pu	control	9
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yan li	yan li	yan li	yan li	li	control	9
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yan li	li	li	control	9
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yan pu	yan pu	yan pu	li	control	9
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	control	9
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meeb	yan	meeb	control	10
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb	control	10
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb	control	10
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb	control	10
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	10
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb pu	meeb pu	meeb pur	meeb pu	control	10
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pur	meeb pu	control	10
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb li	meeb li	meeb li	meeb li	control	10
+05.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop	ker	ker	ker	control	10
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop	ker	ker	ker	control	10
+06.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	ker	ker	ker	control	10
+06d.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	ker	ker	ker	control	10
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fop li	fop li	pu li	ker li	ker li	control	10
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fop li	fop pu	ker	ker pu	ker pu	control	10
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	meeb pu	fop li	kerb li	ker li	ker li	control	10
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop pu	fop pu	ker pu	ker pu	ker pu	control	10
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	10
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	10
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	10
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	10
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	control	10
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur pu	kur pu	kur pur	kur pu	control	10
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pur	kur pu	control	10
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur li	kur li	kur  li	kur li	control	10
+13.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	10
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	10
+14.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	10
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	10
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yan li	yan li	yan li	yan li	yan li	control	10
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan pu	yan pu	yan pu	yan pu	control	10
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yan pu	yan pu	kur pu	yan pu	control	10
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	yan li	yan li	kur li	yan li	control	10
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meeb li	meeb	meeb	control	11
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb	control	11
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb 	meeb	meeb	meeb	meeb	control	11
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meeb pu	meeb	meeb	control	11
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	11
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	11
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	11
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pur	control	11
+05.png	sin	cup	yellow	cent	no	no	no	fop	pur	pur	pur	pur	pur	control	11
+05d.png	sin	cup	yellow	cent	no	no	no	fop	pur	pur	pur	pur 	pur	control	11
+06.png	sin	cup	blue	cent	no	no	no	fop	yar	a	pur	pur	pur	control	11
+06d.png	sin	cup	blue	cent	no	no	no	fop	yar	yar	pur	pur	pur	control	11
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	pur li	yar li	pur li	pur li	pur li	control	11
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	pur li	yar li	pur li	pur li	pur li	control	11
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	pur ku	pur pu	yar pu	pur pu	pur pur	control	11
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	pur ku	yar pu	pur pu	pur pu	pur pu	control	11
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	11
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	11
+10.png	sin	ball	blue	cent	no	no	no	kur	yup	pur	kur	kur	kur	control	11
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	11
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	control	11
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	control	11
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	pur pu	kur pu	kur	kur pu	kur li	control	11
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pur	kur pur	control	11
+13.png	sin	book	yellow	cent	no	no	no	yan	yan li	yar	yar li	yar li	yar 	control	11
+13d.png	sin	book	yellow	cent	no	no	no	yan	yar	yar	yar	yar li	yar	control	11
+14.png	sin	book	blue	cent	no	no	no	yan	yar	yar	yar	yar	yar	control	11
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	yar	yar	yar pu	yar	control	11
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yan li	yar li	yar li	yar li	yar li	control	11
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yar li	yar li	yar li	yar li	yar li	control	11
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yar pi	yar pu	yar pu	yar pur	control	11
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	meeb pu	yar pu	yar pu	yar pur	yar pur	control	11
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb 	fop	meeb	meeb	meeb	control	12
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb	control	12
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb pu	control	12
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb	control	12
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	12
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	12
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	12
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	12
+05.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop	fop	fop	fop	control	12
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop	fop	fop	fop	control	12
+06.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	fop	fop	fop	control	12
+06d.png	sin	cup	blue	cent	no	no	no	fop	fop	fop	fop	fop	fop pu	control	12
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fop li	fop li	fop li	fop li	fop li	control	12
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fop li	fop li	fop li	fop li	fop li	control	12
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fop pu	fop pu	fop pu	fop pu	fop li	control	12
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop pu	fop pu	fop pu	fop pu	fop pu	control	12
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	12
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	12
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	12
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	12
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	control	12
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	control	12
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur pu	kur pu	kur	kur pu	control	12
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	12
+13.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	12
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan 	yan	yan	yan	yan	control	12
+14.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan	meeb pu	control	12
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	12
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yan li	yan li	yan li	yan li	yan li	control	12
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yan li	yan li	yan li	control	12
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	control	12
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	control	12
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb li	meeb li	meeb li	meeb li	meeb li	control	13
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb li	meeb li	meeb li	meeb li	meeb li	control	13
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	13
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb pu	meeb pu	meeb pu	meeb pu	mub pu	control	13
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	13
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	13
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	13
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	13
+05.png	sin	cup	yellow	cent	no	no	no	fop	fob li	fob li	fob li	mub li	mub li	control	13
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fob li	fob li	fob li	mub li	mub li	control	13
+06.png	sin	cup	blue	cent	no	no	no	fop	fob pu	fob pu	fob pu	mub pu	mub pu	control	13
+06d.png	sin	cup	blue	cent	no	no	no	fop	fob pu	fob pu	fob pu	mub pu	mub pu	control	13
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fob li	fob li	fob li	mub li	mub li	control	13
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fob li	fob li	fob li	mup li	meeb li	control	13
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fob pu	fob pu	fob pu	mub pu	mub pu	control	13
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fob pu	fob pu	fob pu	mub pu	mub pu	control	13
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur li	kur li	kur li	kur li	kur li	control	13
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur li	kur li	kur li	kur li	kur li	control	13
+10.png	sin	ball	blue	cent	no	no	no	kur	kur pu	kur pu	kur pu	kur pu	kur pu	control	13
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur pu	kur pu	kur pu	kur pu	kur pu	control	13
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	control	13
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	control	13
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	13
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	13
+13.png	sin	book	yellow	cent	no	no	no	yan	yan li	yan li	yan li	yan li	yan li	control	13
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan li	yan li	yan li	yan li	yan li	control	13
+14.png	sin	book	blue	cent	no	no	no	yan	yan pu	yan pu	yan pu	yan pu	yan pu	control	13
+14d.png	sin	book	blue	cent	no	no	no	yan	yan pu	yan pu	yan pu	yan pu	yan pu	control	13
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yan li	yan li	yan li	yan li	yan li	control	13
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yan li	yan li	yan li	control	13
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	control	13
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	control	13
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb li	meeb li	meeb li	meeb li	meeb li	control	14
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb li	meeb li	meeb li	meeb li	meeb li	control	14
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb pu	meeb pu	meeb pu	meeb pu	meep pu	control	14
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	14
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meep li	control	14
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	14
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	14
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	14
+05.png	sin	cup	yellow	cent	no	no	no	fop	fop li	fop	fop li	pof li	pof li	control	14
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fop li	fop li	fop li	pof li	pof li	control	14
+06.png	sin	cup	blue	cent	no	no	no	fop	fop pu	fop pu	fop pu	pof pu	pof pu	control	14
+06d.png	sin	cup	blue	cent	no	no	no	fop	fop pu	fop pu	fop pu	pof pu	pof pu	control	14
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fop li	fop li	fop li	pof li	pof li	control	14
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fop li	fop li	fop li	pof li	pof li	control	14
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fop pu	fop pu	fop pu	pof pu	pof pu	control	14
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop pu	fop pu	fop pu	pof pu	pof pu	control	14
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur li	kur li	kur li	kur li	kur li	control	14
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur 	kur li	kur li	kur li	kur li	control	14
+10.png	sin	ball	blue	cent	no	no	no	kur	kur pu	kur pu	kur pu	kur pu	kur pu	control	14
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur pu	kur pu	kur pu	kur pu	control	14
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	control	14
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	control	14
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	14
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	14
+13.png	sin	book	yellow	cent	no	no	no	yan	yan li	yan li	yan li	yan li	yan li	control	14
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan li	yan li	yan li	yan li	yan li	control	14
+14.png	sin	book	blue	cent	no	no	no	yan	fop pu	yan pu	yan pu	yan pu	yan pu	control	14
+14d.png	sin	book	blue	cent	no	no	no	yan	fop pu	yan pu	yan pu	yan pu	yan pu	control	14
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	fop li	yan li	yan li	yan li	yan li	control	14
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yan li	yan li	yan li	control	14
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	control	14
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	fop pu	yan pu	yan pu	yan pu	yan pu	control	14
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb li	control	15
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb	control	15
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb	control	15
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb	meeb	meeb	meeb	control	15
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	15
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	15
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	15
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb	control	15
+05.png	sin	cup	yellow	cent	no	no	no	fop	yan	fup	fup	fup	fup	control	15
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fop	fup	fup	fup	fup li	control	15
+06.png	sin	cup	blue	cent	no	no	no	fop	fup	fup	fup	fup	fup	control	15
+06d.png	sin	cup	blue	cent	no	no	no	fop	yan	yan	fup	fup	fup	control	15
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	yan li	fup li	fup li	yan li	fup li	control	15
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fup li	fup li	fup li	fup li	fup li	control	15
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	yan pu	fup pu	fup pu	fup pu	fup pu	control	15
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fup pu	fup pu	fup pu	fup pu	fup pu	control	15
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur li	control	15
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur li	kur li	kur	kur li	kur li	control	15
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	15
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	15
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur	kur li	kur li	kur li	kur li	control	15
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	control	15
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur pu	kur pu	kukr pu	kur pu	control	15
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur	kur pu	kur pu	kur pu	control	15
+13.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan li	yan	control	15
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	15
+14.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	15
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan	yan pu	control	15
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	fop li	yan li	yan li	meeb li	yan li	control	15
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yan li	yan li	yan li	control	15
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	control	15
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	control	15
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meep	meep	meep	meep	meep	control	16
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meep	meep	meep	meep	meep	control	16
+02.png	sin	pen	blue	cent	no	no	no	meeb	meep	meep	meep	meep	meep	control	16
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meep	meep	meep	meep	meep	control	16
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meep li	meep li	meep li	meep li	meep li	control	16
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meep li	meep li	meep li	meep li	meep li	control	16
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meep pu	meep pu	meep pu	meep pu	meep pu	control	16
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meep pu	meep pu	meep pu	meep pu	meep pu	control	16
+05.png	sin	cup	yellow	cent	no	no	no	fop	pu	fup	fup	fup	fup	control	16
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fup	fup	fup	fup	fup	control	16
+06.png	sin	cup	blue	cent	no	no	no	fop	fop	fup	fup	fup	fup	control	16
+06d.png	sin	cup	blue	cent	no	no	no	fop	fup	fup	fup	fup	fup	control	16
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fup li	fup li	fup li	fup li	fup li	control	16
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fup li	fup li	fup li	fup li	fup li	control	16
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fop pu	fup pu	fup pu	fup pu	fup pu	control	16
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop pu	fup pu	fup pu	fup pu	fup pu	control	16
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	16
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	16
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	16
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	16
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	control	16
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	control	16
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	16
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	16
+13.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	16
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	16
+14.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	16
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	16
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yan li	fup li	yan li	yan li	yan li	control	16
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yan li	yan li	yan li	control	16
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	control	16
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	control	16
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb li	meeb li	meeb	meeb	control	17
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb li	meeb li	meeb	meeb	control	17
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb pu	meeb	meeb pu	meeb	meeb 	control	17
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb pu	meeb pu	meeb pu	meeb	meeb	control	17
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb pu	control	17
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meep pu	control	17
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meep pu	control	17
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pup	meeb pu	meeb pu	meeb pu	meeb li	control	17
+05.png	sin	cup	yellow	cent	no	no	no	fop	fop li	kup	kup	kup	kup	control	17
+05d.png	sin	cup	yellow	cent	no	no	no	fop	yan li	kup	kup	kup	kup	control	17
+06.png	sin	cup	blue	cent	no	no	no	fop	yan pu	kup	kup	kup	kup	control	17
+06d.png	sin	cup	blue	cent	no	no	no	fop	fop	kup	kup	kup	kup	control	17
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	yan li	kup li	kup li	kup li	kup pu	control	17
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	yan li	kup li	kup li	kup li	kup	control	17
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fop pu	pop	kup pu	kup pu	kup pu	control	17
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop	kup pu	kup pu	kup li	kup	control	17
+09.png	sin	ball	yellow	cent	no	no	no	kur	kir li	kir li	kir li	kir	kir	control	17
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kir li	kir li	kir li	kir	kir	control	17
+10.png	sin	ball	blue	cent	no	no	no	kur	kir pu	kir pu	kir li	kir li	kir	control	17
+10d.png	sin	ball	blue	cent	no	no	no	kur	kir	kir li	kir li	kir li	kir	control	17
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kir li	kir li	kir li	kir pu	kir pu	control	17
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kir li	kir li	kir li	kir pu	kir li	control	17
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kir pu	kir pu	kir li	kir li	kir li	control	17
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kir pu	kir li	kir li	kir li	kir pu	control	17
+13.png	sin	book	yellow	cent	no	no	no	yan	yan	yan	yan li	yan li	yan li	control	17
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan	yan li	yan	yan li	yan	control	17
+14.png	sin	book	blue	cent	no	no	no	yan	yan	yan	yan	yan	yan	control	17
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	yan pu	yan pu	yan	yan	control	17
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yan li	yan li	yan li	yan li	yan li	control	17
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yan li	yan li	yan pu	control	17
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yan pu	yan pu	yan pu	yan li	control	17
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	control	17
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meep	meep	meep	meep	meep	control	18
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meep	meep	meep	meep	meep	control	18
+02.png	sin	pen	blue	cent	no	no	no	meeb	meep pu	meep	meep	meep	meep	control	18
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meep 	meep	meep	meep	meep	control	18
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meep li	meep pu	meep pu	meep li	meep li	control	18
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meep li	meep pu	meep pu	meep li	meep li	control	18
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meep pu	meep pu	meep pu	meep li	meep li	control	18
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meep pu	meep pu	meep pu	meep li	meep li	control	18
+05.png	sin	cup	yellow	cent	no	no	no	fop	kur 	yon	yon	yon	yon	control	18
+05d.png	sin	cup	yellow	cent	no	no	no	fop	yon	yon	yon li	yon	yon	control	18
+06.png	sin	cup	blue	cent	no	no	no	fop	yon	yon	yon li	yon	yon	control	18
+06d.png	sin	cup	blue	cent	no	no	no	fop	yon	yon	yon 	yon	yon	control	18
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	yum li	yon li	yon li	yon	yon li	control	18
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	yon li	yon li	yon li	yon li	yon li	control	18
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	kur pu	yon li	yon li	yon li	yon li	control	18
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	yon pu	yon li	yon li	yon li	yon li	control	18
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	ku	control	18
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	18
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	18
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur	kur	kur	kur	control	18
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur pu	kur pu	kur pu	kur pu	control	18
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur pu	kur pu	kur pu	kur pu	control	18
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	18
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	18
+13.png	sin	book	yellow	cent	no	no	no	yan	lli	yon pu	yon	yon	yon	control	18
+13d.png	sin	book	yellow	cent	no	no	no	yan	yon li	yon	yon	yon	yon	control	18
+14.png	sin	book	blue	cent	no	no	no	yan	yon 	yon	yon	yon	yon	control	18
+14d.png	sin	book	blue	cent	no	no	no	yan	yon	yon li	yon	yon	yon	control	18
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yon li	yon li	yon li	yon li	yon li	control	18
+15.png	rel	book	yellow	right	pen	blue	left	yan li	li	yon li	yon li	yon li	yon li	control	18
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yon pu	yon li	yon li	kur	yon li	control	18
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	kon pu	yon li	yon li	yon li	yon li	control	18
+01.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb li	meeb li	meeb li	meeb li	control	19
+01d.png	sin	pen	yellow	cent	no	no	no	meeb	meeb	meeb li	meeb li	meeb li	meeb li	control	19
+02.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb pu	meeb pu	meeb pu	meeb pu	control	19
+02d.png	sin	pen	blue	cent	no	no	no	meeb	meeb	meeb pu	meeb pu	meeb pu	meeb pu	control	19
+03-2.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	19
+03.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	control	19
+04-2.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	19
+04.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	control	19
+05.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop li	fop li	fop li	fop li	control	19
+05d.png	sin	cup	yellow	cent	no	no	no	fop	fop	fop li	fop li	fop li	fop li	control	19
+06.png	sin	cup	blue	cent	no	no	no	fop	fop	fop pu	fop pu	fop pu	fop pu	control	19
+06d.png	sin	cup	blue	cent	no	no	no	fop	fop	fop pu	fop pu	fop pu	fop pu	control	19
+07-2.png	rel	cup	yellow	left	pen	blue	right	fop li	fop li	fop li	fop li	fop li	fop li	control	19
+07.png	rel	cup	yellow	right	pen	blue	left	fop li	fop li	fop li	fop li	fop li	fop li	control	19
+08-2.png	rel	cup	blue	left	pen	yellow	right	fop pu	fop pu	fop pu	fop pu	fop pu	fop pu	control	19
+08.png	rel	cup	blue	right	pen	yellow	left	fop pu	fop pu	fop pu	fop pu	fop pu	fop pu	control	19
+09.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur li	kur li	kur li	kur li	control	19
+09d.png	sin	ball	yellow	cent	no	no	no	kur	kur	kur li	kur li	kur li	kur li	control	19
+10.png	sin	ball	blue	cent	no	no	no	kur	kur	kur pu	kur pu	kur pu	kur pu	control	19
+10d.png	sin	ball	blue	cent	no	no	no	kur	kur	kur pu	kur pu	kur pu	kur pu	control	19
+11-2.png	rel	ball	yellow	left	pen	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	control	19
+11.png	rel	ball	yellow	right	pen	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	control	19
+12-2.png	rel	ball	blue	right	pen	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	19
+12.png	rel	ball	blue	left	pen	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	control	19
+13.png	sin	book	yellow	cent	no	no	no	yan	yan	yan li	yan li	yan li	yan li	control	19
+13d.png	sin	book	yellow	cent	no	no	no	yan	yan	yan li	yan li	yan li	yan li	control	19
+14.png	sin	book	blue	cent	no	no	no	yan	yan	yan pu	yan pu	yan pu	yan pu	control	19
+14d.png	sin	book	blue	cent	no	no	no	yan	yan	yan pu	yan pu	yan pu	yan pu	control	19
+15-2.png	rel	book	yellow	left	pen	blue	right	yan li	yan li	yan li	yan li	yan li	yan li	control	19
+15.png	rel	book	yellow	right	pen	blue	left	yan li	yan li	yan li	yan li	yan li	yan li	control	19
+16-2.png	rel	book	blue	right	pen	yellow	left	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	control	19
+16.png	rel	book	blue	left	pen	yellow	right	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	control	19
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	meeb	meeb	meeb	meeb	distractor	20
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb li	meeb	meeb	meeb	meeb	distractor	20
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb pu	meeb	meeb	meeb	meeb	distractor	20
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb 	meeb	meeb	meeb	meeb	distractor	20
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb	meeb	meeb	meeb	meeb	distractor	20
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb	meeb	meeb	meeb	meeb	distractor	20
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb	meeb	meeb	meeb	meeb	distractor	20
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb	meeb	meeb	meeb	meeb	distractor	20
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop	fop	yan li	yan	yan	distractor	20
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop li	fop	yan	yan	yan	distractor	20
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop pu	fop	yan	yan	yan	distractor	20
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop	fop	yan	yan	yan	distractor	20
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop	fop	yan	yan	yan	distractor	20
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop 	fop	yan	yan	yan	distractor	20
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop	fop	kor	yan	yan	distractor	20
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop	yan	yan	yan	yan	distractor	20
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur	kur	kor	kor	kor	distractor	20
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur	kur	kor	kor	kor	distractor	20
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	kur	kor	kor	kor	distractor	20
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur	kur	kor	kor	kor	distractor	20
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur 	kur	kor	kor	kor	distractor	20
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kor	kor	kor	distractor	20
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur	kor	kor	kor	distractor	20
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur	kur	kor	kor	kor	distractor	20
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan li	yan	yan	yan	yan li	distractor	20
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan 	yan	yan	yan	yan li	distractor	20
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan pu	yan	yan li	yan li	yan lil	distractor	20
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan	yan	yan	yan li	yan li	distractor	20
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan	yan	yan	yan li	distractor	20
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan	yan	yan li	yan	yan li	distractor	20
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan	yan	yan	yan li	yan li	distractor	20
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	yan li	yan li	yan li	yan li	distractor	20
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	meeb	meeb li	meeb li	meeb li	distractor	21
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb	meeb	meeb li	meeb li	meeb li	distractor	21
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb	meeb	meeb pu	meeb pu	meeb pu	distractor	21
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb	meeb	meeb pu	meeb pu	meeb pu	distractor	21
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	21
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	21
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	21
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	21
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop	fop	fop li	fop li	fop li	distractor	21
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop	fop	fop li	fop li	fop li	distractor	21
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop	fop	fop pu	fop pu	fop pu	distractor	21
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop	fop	fop pu	fop pu	fop pu	distractor	21
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	fop li	fop li	fop li	fop li	distractor	21
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	fop li	fop li	fop li	fop li	distractor	21
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fop pu	fop pu	fop pu	fop pu	distractor	21
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	fop pu	fop pu	fop pu	fop pu	distractor	21
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur	kur	kur li	kur li	fan li	distractor	21
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur	kur	kur li	kur li	kur li	distractor	21
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	kur	kur pu	kur pu	kur pu	distractor	21
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur	kur	kur pu	kur pu	kur pu	distractor	21
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	distractor	21
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	distractor	21
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	fan pu	distractor	21
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	fan pu	distractor	21
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan	yan	fan li	fan li 	fan li	distractor	21
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan	yan	fan li	fan li	fan li	distractor	21
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan	yan	fan pu	fan pu	fan pu	distractor	21
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan	yan	fan pu	fan pu	fan pu	distractor	21
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan li	fan li	meeb li	fan li	distractor	21
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	yan li	fan li	fan li	fan li	distractor	21
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	yan pu	fan pu	fan pu	fan pu	distractor	21
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	yan pu	fan pu	fan pu	fan pu	distractor	21
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	meeb	meep li	meep li	meep li	distractor	22
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb	meeb	meep li	meep li	meep li	distractor	22
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb	meeb	meeb pu	meep pu	meep pu	distractor	22
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb	meeb	meeb pu	meep pu	meep pu	distractor	22
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	li	meeb li	meep li	meep li	distractor	22
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meep li	meep li	distractor	22
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meep pu	meep pu	distractor	22
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	pu	meep pu	meep pu	meep pu	distractor	22
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	yan	fop li	yan li	yan li	yan li	distractor	22
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop	fop	yan li	yan li	yan li	distractor	22
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop	fop	yan pu	yan pu	yan pu	distractor	22
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop	fop pu	yan pu	yan pu	yan pu	distractor	22
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop	fop li	yan li	yan li	yan li	distractor	22
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	fop li	yan li	yan li	yan li	distractor	22
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fop pu	yan pu	yan pu	yan pu	distractor	22
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	fop pu	yan pu	yan pu	yan pu	distractor	22
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur	kur li	kur li	kur li	pur li	distractor	22
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur	kur	kur li	kur li	kur li	distractor	22
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	kur pu	kur pu	kur pu	kur pu	distractor	22
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur pu	kur	kur pu	kur pu	kur pu	distractor	22
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	li	kur li	kur li	kur li	distractor	22
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	distractor	22
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	22
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	22
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan	li	li	li	li	distractor	22
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	kur	yan li	li	li	li	distractor	22
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan	yan pu	pu	pu	pu	distractor	22
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan	yan pu	pu	pu	pu	distractor	22
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	li	li	li	li	distractor	22
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	yan li	li	li	li	distractor	22
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	yan pu	pu	kur pu	pu	distractor	22
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	yan pu	pu	pu	pu	distractor	22
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb li	meeb	meeb li 	kup li	kurl li	distractor	23
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb li	meeb	moob li	kurl li	kurl li	distractor	23
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb pu	meeb	moob li 	moob li	kurl li	distractor	23
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb pu	meeb li	meeb li	kurl li	kurl li	distractor	23
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb pu	moob li	kurl li	kurl li	distractor	23
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li 	kurl li	kurl li	distractor	23
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb li	kur li	kurl li	kurl li	distractor	23
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb li	kurl li	kurl li	distractor	23
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop li	fop	fup li	kup fup	kup fup	distractor	23
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop li	fop	fup li 	kup fup	kup fup	distractor	23
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop 	fop pu	fup pu	moob fup\	kup fup	distractor	23
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop 	fop	fup li	moop[ fup 	kup fup	distractor	23
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	fop pu	fup up 	kup fup	kup fup	distractor	23
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	fop li	kup li 	kup fup	kup fup	distractor	23
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fop pu	fup	moob kup	kup fup	distractor	23
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	fop li	fup li 	mppn fup	kup fup	distractor	23
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur li	dfg	fub	efg	efg	distractor	23
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur 	erg	dfg	efg	efg	distractor	23
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur 	erg	dfg	dfg	dfg	distractor	23
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur pu	efg 	dfg	dfg	dfg	distractor	23
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kjf	efg	efg	efg	distractor	23
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	efg li	kup fup	efg	efg	distractor	23
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kuh	dfg	dfg	dfg	distractor	23
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	dfg	dfg 	dfg	dfg	distractor	23
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan 	kur	fup li	kurl 	moob	distractor	23
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan li	kur li	kur li	moob fup	moob fup	distractor	23
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan pu	kur li	fup 	moob 	moob	distractor	23
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan pu	kur 	fup li 	moob	moob	distractor	23
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	kur pu	kop	kurl	moob	distractor	23
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	meeb li	moob	kurl 	moob	distractor	23
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	kur li	feep up	moob	moob	distractor	23
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	kur pu	fup	moob fup	moob	distractor	23
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb li	meeb li	beeb li	beeb li	beeb li	distractor	24
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb li	sfsd	beeb li	beeb li	beeb li	distractor	24
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb pu	meeb pu	beeb pu	beeb pu	beeb pu	distractor	24
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb pu	meeb pu	beeb pu	beeb pu	beeb pu	distractor	24
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	beeb li	beeb li	distractor	24
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	beeb li	beeb li	beeb li	distractor	24
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	beep pu	beeb pu	beeb pu	distractor	24
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	beeb pu	beeb pu	distractor	24
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	li	tan li	yan li	tan li	tan li	distractor	24
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	li	tan li	tan li	tan li	tan li	distractor	24
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	tan pu	tan pu	tan pu	tan pu	tan pu	distractor	24
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	tan pu	tan pu	tan pu	tan pu	tan pu	distractor	24
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	li	tan li	yan li	tan li	tan li	distractor	24
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	tan li	tan li	tan li	tan li	tan li	distractor	24
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	tan pu	tan pu	tan pu	tan pu	tan pu	distractor	24
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	tan pu	tan pu	tan pu	tan pu	tan pu	distractor	24
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur li	kur li	kur li	kur li	kur li	distractor	24
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur li	kur li	kur li	kur li	kur li	distractor	24
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	24
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	24
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	distractor	24
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	distractor	24
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	24
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	24
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan li	yan li	yan li	yan li	yan li	distractor	24
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan li	yan li	yan li	yan li	yan li	distractor	24
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan pu	yan pu	yan pu	yan pu	yan pu	distractor	24
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan pu	yan pu	yan pu	yan pu	yan pu	distractor	24
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan li	yan li	yan li	yan li	distractor	24
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	yan li	yan li	yan li	yan li	distractor	24
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	distractor	24
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan li	yan pu	yan pu	yan pu	yan pu	distractor	24
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	meeb	meeb li	yeeb li	li	distractor	25
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb	meeb	meeb li	meeb li	meep li	distractor	25
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb	meeb pu	meeb pu	meeb pu	meep pu	distractor	25
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb	meeb pu	meeb pu	meeb pu	pu	distractor	25
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meep li	distractor	25
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	yeeb li	li	distractor	25
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	pu	distractor	25
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	pu	distractor	25
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop	li	li	li	li	distractor	25
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop	???	li	li	yaku li	distractor	25
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop	???	pu	pu	pu	distractor	25
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop	pu	pu	pu	pu	distractor	25
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	li	li	li	li	distractor	25
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop	li	li	li	li	distractor	25
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	pu	pu	pu	pu	distractor	25
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	pu	pu	pu	pu	distractor	25
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur	kur	kur li	kur li	li	distractor	25
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur	kur li	kur li	kur li	li	distractor	25
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	kur	kur pu	pu	pu	distractor	25
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur	kur	kur pu	kur pu	pu	distractor	25
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kur li	kur li	kurl li	distractor	25
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kur li	kur li	li	distractor	25
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kur pu	pu	pu	distractor	25
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kuur pu	distractor	25
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan	yan	yan li	yeeb li	li	distractor	25
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan li	yan li	yan li	yan li	li	distractor	25
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan	yan pu	yan pu	yan pu	pu	distractor	25
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan	yan	yan pu	pu	pu	distractor	25
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan li	yan	li	li	distractor	25
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	yan li	yan li	li	li	distractor	25
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	yan pu	yan pu	pu	pu	distractor	25
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	yan pu	yan pu	pu	pu	distractor	25
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	26
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	26
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb pu	meeb po	meeb po	meeb po	meeb po	distractor	26
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb pu	meeb po	meeb po	meeb po	meeb po	distractor	26
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	26
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	26
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb po	meeb po	meeb po	meeb po	distractor	26
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb po	meeb po	meeb po	meeb po	distractor	26
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	yan li	yan li	yan li	yan li	yan li	distractor	26
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	yan lo	yan li	yan li	yan li	yan li	distractor	26
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	yan pu	yan po	yan po	yan po	kur po	distractor	26
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	yan pu	yan po	yan po	yan po	yan po	distractor	26
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	yan li	yan li	yan li	yan li	yan li	distractor	26
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	yan li	yan li	yan li	yan li	yan li	distractor	26
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	yan pu	yan po	yan po	yan po	kur po	distractor	26
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	yan pu	yan po	yan po	yan po	kur po	distractor	26
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur li	kur li	kur li	kur po	kur li	distractor	26
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur li	kur li	kur li	kur li	li	distractor	26
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur pu	kur po	kur po	kur po	kur po	distractor	26
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur pu	kur po	kur po	kur po	kur po	distractor	26
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	distractor	26
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	distractor	26
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur po	kur po	kur po	kur po	distractor	26
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur po	kur po	kur po	kur po	distractor	26
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan li	kur li	kur po	kur li	kur li	distractor	26
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan li	kur li	kur li	kur po	kur li	distractor	26
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan pu	kur po	kur po	kur po	kur po	distractor	26
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan pu	kur po	kur po	kur li	kur po	distractor	26
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	kur li	kur po	kur po	kur li	distractor	26
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan lo	kur li	kur li	kur li	kur li	distractor	26
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	kur po	kur po	kur po	kur po	distractor	26
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	kur pu	kur po	kur po	kur po	kur po	distractor	26
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	d	d	gg	gg	distractor	27
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb li	left	d	g	g	distractor	27
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb	Right	d	dl	dl	distractor	27
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb pu	Right	d	d	d	distractor	27
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	gawg	d	g	g	distractor	27
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	That's a pen	g	g	g	distractor	27
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	Right	d	d	d	distractor	27
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	d	d	d	d	distractor	27
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	yan	Also Spain	g	g	g	distractor	27
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	a	Left	d	g	gl	distractor	27
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	a	left	d	dl	dl	distractor	27
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	pu	Right	d	d	d	distractor	27
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	li	Left	g	g	g	distractor	27
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	li	right	d	g	g	distractor	27
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	yan pu	DEATH TO INFIDELS	d	d	d	distractor	27
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	pu	d	d	d	d	distractor	27
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur li	d	d	gl	gl	distractor	27
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur li	Right	g	g	g	distractor	27
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur pu	Right	d	d	d	distractor	27
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur pu	d	d	dl	dl	distractor	27
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	g	d	g	g	distractor	27
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	spain	g	g	g	distractor	27
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	dg	d	d	d	distractor	27
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	mmmkay	gwaaah	d	d	distractor	27
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan	d	d	gl	gl	distractor	27
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan	Right	right	g	g	distractor	27
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yn pu	Right	d	dd	dd	distractor	27
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan	d	d	d	d	distractor	27
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	The other France	the other france	g	g	distractor	27
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	weoign	d	g	g	distractor	27
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	probably France?	right	d	d	distractor	27
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	d	d	d	d	distractor	27
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	28
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	28
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb pu	meeb pu	meeb pu	meeb pu	meep pu	distractor	28
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	28
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	28
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	28
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	28
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	28
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop li	fop li	fop li	fop li	yan li	distractor	28
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop li	fop li	fop li	fop li	fop li	distractor	28
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop pu	fop pu	fop pu	fop pu	fop pu	distractor	28
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop pu	fop pu	fop pu	fop pu	fop pu	distractor	28
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	fop li	fop li	fop li	fop li	distractor	28
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	fop li	fop li	fup li	yan li	distractor	28
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fop pu	fop pu	fop pu	yan pu	distractor	28
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	fop pu	fop pu	fop pu	fop pu	distractor	28
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur li	keu li	keu li	keu li	fop li	distractor	28
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur li	keu li	keu li	keu li	yan li	distractor	28
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur pu	keu pu	keu pu	keu pu	fop pu	distractor	28
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur pu	keu pu	keu pu	keu pu	meeb pu	distractor	28
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	keu li	keu li	keu li	yan li	distractor	28
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	keu li	keu li	keu li	meeb li	distractor	28
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	keu pu	keu pu	keu pu	meeb pu	distractor	28
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	keu pu	keu pu	keu pu	meeb pu	distractor	28
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan li	yan li	yan li	yan li	yan li	distractor	28
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan li	yan li	yan li	yan li	yan li	distractor	28
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan pu	yan pu	yan pu	yan pu	meeb pu	distractor	28
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan pu	yan pu	yan pu	yan pu	meeb pu	distractor	28
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan li	Yan li	yan li	yan li	distractor	28
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	Yan li	Yan li	yan li	yan li	distractor	28
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	yan pu	yan pu	yan pu	meeb pu	distractor	28
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	yan pu	yan pu	yan pu	meeb pu	distractor	28
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meep	meep li	fdfd	fd	f	distractor	29
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meep	meep li	df	d	fd	distractor	29
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meep	meep pu	fd	f	ddf	distractor	29
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meep pu	meep pu	df	f	dd	distractor	29
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meep li	meep li	ko li	ffd	df	distractor	29
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meep li	meep li	fd	f	fd	distractor	29
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meep pu	meep pu	fd	f	df	distractor	29
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meep pu	meep pu	fd	pa li	fd	distractor	29
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop	kop li	fd	f	df	distractor	29
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop	fop	sadf	fd	dff	distractor	29
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop	for pu	fd	fd	d	distractor	29
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop	kop pu	fd	fd	f	distractor	29
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	kop li	fd	df	f	distractor	29
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	kop li	f	fd	ffd	distractor	29
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	kop pu	df	df	d	distractor	29
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	kop	fd	fd	dd	distractor	29
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur	kur 	fd	fd	fd	distractor	29
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur	kur li	ffd	d	ffd	distractor	29
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	kur pu	fd	df	f	distractor	29
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur	kur	d	d	df	distractor	29
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur	d	fdd	fdd	distractor	29
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	fd	f	df	distractor	29
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kdd	df	fd	distractor	29
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	fd	dff	f	distractor	29
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan	yan li	df	df	df	distractor	29
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan li	yan li	f	d	df	distractor	29
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan	yan	f	f	df	distractor	29
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan pu	yan pu	d	f	f	distractor	29
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan li	fd	ddf	fdd	distractor	29
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	yan li	fd	fd	df	distractor	29
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	yan pu	f	f	df	distractor	29
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	yan pu	fd	df	df	distractor	29
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb li	meeb li	meep li	meep li	meep li	distractor	30
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb li	meeb li	meep li	meep li	meep li	distractor	30
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb pu	meeb pu	meep pu	meep pu	meep pu	distractor	30
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb pu	meeb pu	meep pu	meep pu	meep pu	distractor	30
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meep li	meep li	meep li	distractor	30
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meep li	meep li	meep li	distractor	30
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meep pu	meep pu	meep pu	distractor	30
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meep pu	meep pu	meep pu	distractor	30
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop li	fop li	pan li	pan li	pan li	distractor	30
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop li	fop li	pan li	pan li	pan li	distractor	30
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop pu	fop pu	lan pu	pan pu	pan pu	distractor	30
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop pu	fop pu	pan pu	pan pu	pan pu	distractor	30
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	fop li	pan li	yen li	pan li	distractor	30
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	fop li	pan li	pan li	pan li	distractor	30
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fop pu	pan pu	pan pu	pan pu	distractor	30
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	fop pu	fan pu	pan pu	pan pu	distractor	30
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur li	kur li	kan li	kan li	kan li	distractor	30
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur li	kur li	kan li	kan li	kan li	distractor	30
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur pu	kur pu	kan pu	kan pu	kan pu	distractor	30
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur pu	kur pu	kan pu	kan pu	kan pu	distractor	30
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kan li	kan li	kan li	distractor	30
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kan li	kan li	kan li	distractor	30
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kan pu	kan pu	kan pu	distractor	30
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	kan pu	kan pu	kan pu	distractor	30
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan li	yan li	yan li	yen li	li	distractor	30
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan li	yan li	yan li	yen li	pan li	distractor	30
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan pu	yan pu	yan pu	yen pu	lyn pu	distractor	30
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan pu	yan pu	yan pu	yen pu	lyn pu	distractor	30
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan li	yan li	yan li	li	distractor	30
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	yan li	yan li	yen li	lyk li	distractor	30
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	yan pu	yan pu	yen pu	pun pu	distractor	30
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	yan pu	yan pu	yen pu	pu	distractor	30
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb 	meeb li	meeb li	meeb li	meeb li	distractor	31
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	31
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	31
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	31
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	31
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	31
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	31
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meep pu	distractor	31
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop pu	fop li	fop li	fop li	fup li	distractor	31
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop li	fop li	fop li	fop li	fup li	distractor	31
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop	fop pu	fop pu	fop pu	fup pu	distractor	31
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop li	fop pu	fop pu	fop pu	fup pu	distractor	31
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	fop li	fop li	fop li	fup li	distractor	31
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop pu	fop li	fop li	fop li	fup li	distractor	31
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fop pu	fop pu	fop pu	fup pu	distractor	31
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	fop pu	fop pu	fop pu	kup pu	distractor	31
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur	kur li	kur li	kur li	kur li	distractor	31
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur li	kur li	kur li	kur li	kur li	distractor	31
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	31
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur	kur pu	kur pu	kur pu	kur pu	distractor	31
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	distractor	31
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	distractor	31
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur	kur pu	kur pu	kur pu	kur pu	distractor	31
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	31
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	li	ari li	ari li	ari li	ari li	distractor	31
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	ari li	ari li	ari li	ari li	ari li	distractor	31
+14-2.png	irr	book	blue	right	cup	blue	left	yan	ari	ari pu	ari pu	ari pu	ari pu	distractor	31
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	ari pu	ari pu	ari pu	ari pu	ari pu	distractor	31
+15.png	rel	book	yellow	left	book	blue	right	yan li	ari li	ari li	ari li	ari li	ari li	distractor	31
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	ari li	ari li	ari li	ari li	ari li	distractor	31
+16.png	rel	book	blue	right	book	yellow	left	yan pu	li	ari pu	ari pu	ari pu	ari pu	distractor	31
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	ari pu	ari pu	ari pu	ari pu	ari pu	distractor	31
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	meeb	meeb	meeb li	meeb li	distractor	32
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb	meeb	meeb	meeb li	meeb li	distractor	32
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb	meeb pu	meeb 	meeb pu	meeb pu	distractor	32
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb 	meeb pu	meeb pu	meeb pu	meeb pu	distractor	32
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	32
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	32
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	fop pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	32
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	32
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop	fop	fop li	li	yan li	distractor	32
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop	fop	fop	fop li	li	distractor	32
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop	fop	fop 	fop pu	yan pu	distractor	32
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop	fop	fop pu	fop pu	yan pu	distractor	32
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	fop li	fop li	yan li	yan li	distractor	32
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	fop	fop li	fop li	yan li	distractor	32
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fop pu	fop pu	yan pu	pu	distractor	32
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	fop pu	fop pu	pu	yan pu	distractor	32
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur	kur	kur	li	fop li	distractor	32
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur	kur	kur li	fop li	fop li	distractor	32
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	kur	kur pu	yan pu	fop pu	distractor	32
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur	kur	kur	fop pu	fop pu	distractor	32
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kur li	fop li	fop li	distractor	32
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kur li	fop li	fop li	distractor	32
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kur pu	yan pu	fop pu	distractor	32
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	kur pu	fop pu	fop pu	distractor	32
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan	yan li	yan	yan li	li	distractor	32
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan	yan	yan li	li	li	distractor	32
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan	yan	yan	yan pu	pu	distractor	32
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan	yan	yan pu	pu	pu	distractor	32
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan li	yan li	yan li	li	distractor	32
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	yan li	yan li	yan li	li	distractor	32
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	yan pu	yan pu	pu	yan pu	distractor	32
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	yan pu	yan pu	pu	pu	distractor	32
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	meeb li	meeb li	meeb li	meeb li	distractor	33
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb	meeb li	meeb li	meeb li	meeb li	distractor	33
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb	meeb pu	meeb pu	meeb pu	meeb pu	distractor	33
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb	meeb pu	meeb pu	meeb pu	meeb pu	distractor	33
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	33
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	33
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	33
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	33
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop	fop li	fop li	fop li	fop li	distractor	33
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop	fop li	fop li	fop li	fop li	distractor	33
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop	fop pu	fop pu	fop pu	fop pu	distractor	33
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop	fop pu	fop pu	fop pu	fop pu	distractor	33
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	fop li	fop li	fop li	fop li	distractor	33
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	fop li	fop li	fop li	fop li	distractor	33
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fop pu	fop pu	fop pu	fop pu	distractor	33
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	fop pu	fop pu	fop pu	fop pu	distractor	33
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur	kur li	kurl li	kurl li	kurl li	distractor	33
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur li	kur li	kur li	kurl li	kurl li	distractor	33
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	kur pu	kurl pu	kurl pu	kurl pu	distractor	33
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur	kur pu	kurl pu	kurl pu	kurl pu	distractor	33
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kurl li	kurl li	kurl li	distractor	33
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kurl li	kurl li	kurl li	distractor	33
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kurl pu	kurl pu	kurl pu	distractor	33
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	kurl pu	kurl pu	kurl pu	distractor	33
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan	yan li	yan li	yan li	yan li	distractor	33
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan	yan li	yan li	yan li	yan li	distractor	33
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan	yan pu	yan pu	yan pu	yan pu	distractor	33
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan	yan pu	yan pu	yan pu	yan pu	distractor	33
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan li	yan li	yan li	yan li	distractor	33
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	yan li	yan li	yan li	yan li	distractor	33
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	distractor	33
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	distractor	33
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	meeb li	meeb li	meeb li	meeb li	distractor	34
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb	meeb li	meeb li	meeb li	meeb li	distractor	34
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb	meeb pu	meeb pu	meeb pu	meeb pu	distractor	34
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb	meeb pu	meeb pu	meeb pu	meeb pu	distractor	34
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	34
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	34
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	34
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	34
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop	fop li	fop li	fop li	fob li	distractor	34
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop	fop li	fop li	fop li	fob li	distractor	34
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop	fop pu	fop pu	fop pu	fob pu	distractor	34
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop	fop pu	fop pu	fop po	fob pu	distractor	34
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	fop li	fop li	fop pu	fob li	distractor	34
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	fop li	fop li	fop li	fob li	distractor	34
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fop pu	fop pu	fop pu	fob pu	distractor	34
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	fop pu	fop pu	fop pu	fob pu	distractor	34
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur 	kur li	kur li	kur li	kur li	distractor	34
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur	kur li	kur li	kur li	kur li	distractor	34
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	kur pu	kur pu	kur pu	kur pu	distractor	34
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur	kur pu	kur pu	kur pu	kur pu	distractor	34
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	distractor	34
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur l	kur li	kur li	kur li	kur li	distractor	34
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	34
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	34
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan	yan li	yan li	yan li	yan li	distractor	34
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan	yan li	yan li	yan li	yan li	distractor	34
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan	yan pu	yan pu	yan pu	yan pu	distractor	34
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan	yan pu	yan pu	yan pu	yan pu	distractor	34
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan li	yan li	yan li	yan li	distractor	34
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	yan li	yan li	yan li	yan li	distractor	34
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	distractor	34
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan li	yan pu	yan pu	yan pu	yan pu	distractor	34
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	35
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	35
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb	meeb pu	meeb lu	meeb lu	meeb lu	distractor	35
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb pu	meeb pu	meeb lu	meeb lu	meeb lu	distractor	35
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	35
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	35
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb	meeb pu	meeb lu	meeb lu	meeb lu	distractor	35
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb	meeb pu	meeb lu	meeb lu	meeb lu	distractor	35
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop li	fop li	pur li	pur li	pur li	distractor	35
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop li	fop li	pur li	pur li	pur li	distractor	35
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop	fup pu	pur lu	pur lu	pur lu	distractor	35
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop pu	fop pu	pur li	pur lu	pur lu	distractor	35
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	fop li	pur li	pur li	pur li	distractor	35
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	fup li	pur li	pur li	pur li	distractor	35
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fup pu	pur lu	pur lu	pur lu	distractor	35
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop	fup pu	pur lu	pur lu	pur lu	distractor	35
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur li	kur li	kur li	kur li	kur li	distractor	35
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur li	kur li	kur li	kur li	kur li	distractor	35
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur pu	kur pu	kur lu	kur lu	kur lu	distractor	35
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur pu	kur pu	kur lu	kur lu	kur lu	distractor	35
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	distractor	35
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	distractor	35
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kur lu	kur lu	kur lu	distractor	35
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur 	kur pu	kur lu	kur lu	kur lu	distractor	35
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan li	yan li	yan li	yan li	yan li	distractor	35
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan li	yan li	yan li	yan li	yan li	distractor	35
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan pu	yan pu	yan lu	yan lu	yan lu	distractor	35
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan pu	yan pu	yan lu	yan lu	yan lu	distractor	35
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan li+	yan li	yan li	yan li	distractor	35
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	yan li	yan li	yan li	yan li	distractor	35
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan	yan pu	yan lu	yan lu	yan lu	distractor	35
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	fop pu	yan pu	yan lu	yan lu	yan lu	distractor	35
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	meeb	meeb	meeb li	meeb li	distractor	36
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb	meeb	meeb li	meeb li	meeb li 	distractor	36
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb	meeb	meeb	meeb pu	meeb pu	distractor	36
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb	meeb	meeb pu	meeb pu	meeb pu	distractor	36
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li 	distractor	36
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb pu	meeb li	meeb li	meeb li	meeb li	distractor	36
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	36
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	36
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop	fop	li	li	li 	distractor	36
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop	fop	li	li	li	distractor	36
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop	fop	pu	pu	kur pu	distractor	36
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop	fop	kep pu	pu	pu	distractor	36
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	fop li	li	li	li	distractor	36
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	fop li	li	li	li	distractor	36
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fop pu	pu	pu	pu	distractor	36
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	fop pu	pu	pu	pu	distractor	36
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur	kur	kur li	kur li	kur li	distractor	36
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur	kur	kur li	kur li	li	distractor	36
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	kur	kur pu	kur pu	kur pu	distractor	36
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur	kur	kur	kur pu	kur pu	distractor	36
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	distractor	36
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kur li	kur li	kur li 	distractor	36
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	36
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	kur pu	kir pu	kur pu 	distractor	36
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan	yan	yan	yan li	yan li	distractor	36
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan	yan	yan li	yan li	yan li 	distractor	36
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan	yan	yan pu	yan pu	yan pu	distractor	36
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan	yan	yan pu	yan pu	yan pu	distractor	36
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan li	yan li	yan li	yan li	distractor	36
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan pu	yan li	yan li	yan li	yan li	distractor	36
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	distractor	36
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	yan pu	yan pu	yan pu	yan pu	distractor	36
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	meeb li	meeb	meeb li	li	distractor	37
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	kur	meeb	meeb	meeb	li	distractor	37
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb pu	meeb	meeb	meeb 	pu	distractor	37
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb	meeb pu	meeb	meeb 	pu	distractor	37
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	kur li	meeb li	meeb li	meeb li	li	distractor	37
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	li	distractor	37
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	pu	distractor	37
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	yop pu	meeb pu	meeb pu	meeb pu	yok pu	distractor	37
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	yop li	yop li	yok	yok li	yok li	distractor	37
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop	yop li	yok	yok li	li	distractor	37
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	?	yop	yop pu	yok pu	kur pu	distractor	37
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	yop pu	yok pu	yok	yok	yok pu	distractor	37
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	yop li	yok li	yok li	yok li	yok li	distractor	37
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	?	yok li	yok li	yok li	yok li	distractor	37
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	yop pu	yok pu	yok pu	yok pu	yok pu	distractor	37
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	yop pu	yok pu	yok pu	yok pu	yok pu	distractor	37
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur li	kur	kur	kur	kur li	distractor	37
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur li	kur	kur	kur	kur li	distractor	37
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	kur pu	kur	kur pu	kur li	distractor	37
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur	kur	kur	kur	meeb pu	distractor	37
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	distractor	37
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kur li	kur li	meeb li	distractor	37
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	37
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	37
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	kur	meeb 	meeb	meeb	meeb li	distractor	37
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	meeb	meeb li	meeb li	meeb li	meeb li	distractor	37
+14-2.png	irr	book	blue	right	cup	blue	left	yan	meeb pu	meeb	meeb	meeb	meeb pu	distractor	37
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	37
+15.png	rel	book	yellow	left	book	blue	right	yan li	yop li	meeb li	meeb li	meeb li	meeb li	distractor	37
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yop li	meeb li	meeb li	meeb li	meeb li	distractor	37
+16.png	rel	book	blue	right	book	yellow	left	yan pu	pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	37
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yop	meeb pu	meeb pu	meeb pu	meeb pu	distractor	37
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	meeb	meeb	meeb li	meeb li	distractor	38
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb	meeb li	meeb	meeb li	meeb li	distractor	38
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb	meeb pu	meeb	meeb	meeb pun	distractor	38
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb	meeb	meeb	meeb pun	meeb pun	distractor	38
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	38
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb 	meeb li	meeb li	meeb li	meeb li	distractor	38
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb li	meeb pu	meen pun	meeb pun	meeb pun	distractor	38
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb	meeb pu	meeb pun	meeb pun	meeb pun	distractor	38
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop li	fop li	fop li	fop li	fup li	distractor	38
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop pu	fop li	fop li	fop li	fup li	distractor	38
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop pu	fop	fop	fop pun	fup pun	distractor	38
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop pu	fop pu	fop	fop pun	fup pun	distractor	38
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop l	fop li	fop li	fop li	fup li	distractor	38
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop	fop li	fop li	fop li	fup li	distractor	38
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fop pu	fop pun	fop pun	fup pun	distractor	38
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	fop pu	fop pun	fop pun	fup pun	distractor	38
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur li	kur	kur	kur li	kur li	distractor	38
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur li	kur	kur	kur li	kur li	distractor	38
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	kur	kur	kur pun	kur pun	distractor	38
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur li	kur	kur pun	kur pun	kur pun	distractor	38
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur	kur li	kur li	kur li	kur li	distractor	38
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur pu	kur li	kur li	kur li	kur li	distractor	38
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kur	kur pun	kur pun	distractor	38
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur	kur pu	kur	kur pun	kur pun	distractor	38
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan	yan	yan li	yan li	yan li	distractor	38
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan	yan 	yan	yan li	yan li	distractor	38
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan	yan pu	yan	yan pun	yan pun	distractor	38
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan	yan pu	yan pu	yan pun	kur pun	distractor	38
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan li	yan li	yan li	yan li	distractor	38
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan	yan li	yan li	yan li	yan li	distractor	38
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	yan pu	yan pun	yan pun	yan pun	distractor	38
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	yan pu	yan pun	yan pun	yan pun	distractor	38
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	meeb	meeb li	meeb li	meeb lis	distractor	39
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb	meeb	meeb li	meeb li	meeb lis	distractor	39
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb	meeb	meeb pu	meeb pu	meen pu	distractor	39
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb	meeb pu	meeb pu	meeb pu	lis pu	distractor	39
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb lis	distractor	39
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb lis	distractor	39
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb li	meeb pu	distractor	39
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	39
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop	fop	kup li	kup li	kup lis	distractor	39
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop	fop	kup li	kup li	kup lis	distractor	39
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop	fop pu	kop pu	kup pu	kup pu	distractor	39
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop	fop pu	kup pu	kup pu	kup pu	distractor	39
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	fop li	kup li	kup li	kup lis	distractor	39
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	fop li	kur li	kup li	kup lis	distractor	39
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fop pu	kup pu	kup pu	kup pu	distractor	39
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	fop pu	kur pu	kup pu	kup pu	distractor	39
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur	kur	kur li	kur li	kur lis	distractor	39
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur	kur	kur li	kur li	kur lis	distractor	39
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	kur pu	kur pu	kur pu	kur pu	distractor	39
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur	kur	kur pu	kur pu	kur pu	distractor	39
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kur li	kur li	kur lis	distractor	39
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	distractor	39
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	39
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	kur li	kur pu	kur pu	distractor	39
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yen	yen li	yen li	yen li	yen li	distractor	39
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yen	yen li	yen li	yen li	yen lis	distractor	39
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yen	yen	yen pu	yen pu	yen pu	distractor	39
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yen	yen pu	yen pu	yen pu	yen pu	distractor	39
+15.png	rel	book	yellow	left	book	blue	right	yan li	yen li	yen li	yen li	yen li	yen lis	distractor	39
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yen li	yen li	yen li	yen li	yen lis	distractor	39
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yen pu	yen pu	yen pu	yen pu	yen pu	distractor	39
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yen pu	yen pu	yen pu	yen pu	yen pu	distractor	39
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	meeb	meeb li	meeb li	meeb li	distractor	40
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb	meeb	meeb li	meeb li	meeb li	distractor	40
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb	meeb	meeb pu	meeb pu	meeb pu	distractor	40
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb	meeb	meeb pu	meeb pu	meeb pu	distractor	40
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	40
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	meeb li	meeb li	meeb li	meeb li	distractor	40
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	40
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	meeb pu	distractor	40
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop	fop	li	li	li	distractor	40
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop	fop	li	li	li	distractor	40
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop	fop pu	yan pu	pu	meeb pu	distractor	40
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop	fop pu	pu	pu	pu	distractor	40
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	fop li	yan pu	li	li	distractor	40
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	fop li	yan li	li	meeb li	distractor	40
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	fop pu	yan pu	pu	pu	distractor	40
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	fop pu	yop pu	pu	pu	distractor	40
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur	kur	kur li	kur li	kur li	distractor	40
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur li	kur li	kur li	kur li	kur li	distractor	40
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	kur pu	kur pu	kur pu	kur pu	distractor	40
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur	kur	kur pu	kur pu	kur pu	distractor	40
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	kur li	kur li	kur li	kur li	distractor	40
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	kur li	kur li	kur li	kur li	distractor	40
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	40
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	kur pu	kur pu	kur pu	kur pu	distractor	40
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan	yan	yan li	yan li	yan li	distractor	40
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan	yan li	li	yan li	yan li	distractor	40
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan pu	yan	yan pu	yan pu	yan pu	distractor	40
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan	yan	yan pu	yan pu	yan pu	distractor	40
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	yan li	yan li	yan li	yan li	distractor	40
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	yan li	yan li	yan li	yan li	distractor	40
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	yan	yan pu	yan pu	yan pu	distractor	40
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	yan pu	pu	yan pu	yan pu	distractor	40
+01-4.png	irr	pen	yellow	left	book	yellow	left	meeb	meeb	meeb	meeb	meeb	meeb	distractor	41
+01-6.png	irr	pen	yellow	right	cup	blue	right	meeb	meeb	meeb	li	li	meeb	distractor	41
+02-3.png	irr	pen	blue	left	ball	blue	right	meeb	meeb	meeb	meeb	meeb	meeb	distractor	41
+02-7.png	irr	pen	blue	right	cup	yellow	left	meeb	meeb	meeb	ku	meeb	meeb	distractor	41
+03.png	rel	pen	yellow	left	pen	blue	right	meeb li	meeb li	li	li	li	meeb	distractor	41
+03-2.png	rel	pen	yellow	right	pen	blue	left	meeb li	meeb li	li	li	li	meeb	distractor	41
+04.png	rel	pen	blue	right	pen	yellow	left	meeb pu	fop pu	ku	kun	meeb	meeb	distractor	41
+04-2.png	rel	pen	blue	left	pen	yellow	right	meeb pu	fop pu	ku	kun	meeb	meeb	distractor	41
+05-5.png	irr	cup	yellow	right	ball	blue	left	fop	fop	fop	li	li	li	distractor	41
+05-7.png	irr	cup	yellow	left	book	yellow	right	fop	fop	fop	meeb	li	li	distractor	41
+06-4.png	irr	cup	blue	left	pen	blue	right	fop	fop	fop	ku	kun	ku	distractor	41
+06-6.png	irr	cup	blue	right	ball	yellow	left	fop	fop	ku	ku	ku	ku	distractor	41
+07.png	rel	cup	yellow	left	cup	blue	right	fop li	fop li	li	li	li	li	distractor	41
+07-2.png	rel	cup	yellow	right	cup	blue	left	fop li	fop li	fop li	li	li	li	distractor	41
+08.png	rel	cup	blue	left	cup	yellow	right	fop pu	fop pu	ku	kun	ku	ku	distractor	41
+08-2.png	rel	cup	blue	right	cup	yellow	left	fop pu	fop pu	ku	ku	ku	ku	distractor	41
+09-2.png	irr	ball	yellow	left	cup	yellow	right	kur	kur	kur	li	li	li	distractor	41
+09-4.png	irr	ball	yellow	right	book	blue	left	kur	kur	li	li	li	li	distractor	41
+10-2.png	irr	ball	blue	right	pen	yellow	left	kur	kur	ku	kun	kun	kun	distractor	41
+10-5.png	irr	ball	blue	left	book	blue	right	kur	kur	kur	kur	kur	kur	distractor	41
+11.png	rel	ball	yellow	left	ball	blue	right	kur li	kur li	li	li	li	li	distractor	41
+11-2.png	rel	ball	yellow	right	ball	blue	left	kur li	kur li	li	li	li	li	distractor	41
+12.png	rel	ball	blue	right	ball	yellow	left	kur pu	kur pu	ku	kun	kun	kun	distractor	41
+12-2.png	rel	ball	blue	left	ball	yellow	right	kur pu	kur pu	ku	kun	kur	kur	distractor	41
+13-2.png	irr	book	yellow	left	ball	yellow	right	yan	yan	yan	kur	li	li	distractor	41
+13-4.png	irr	book	yellow	right	pen	blue	left	yan	yan	yan	li	lir	li	distractor	41
+14-2.png	irr	book	blue	right	cup	blue	left	yan	yan	yan	kur	kun	ku	distractor	41
+14-5.png	irr	book	blue	left	pen	yellow	right	yan	yan	yan	ku	ku	ku	distractor	41
+15.png	rel	book	yellow	left	book	blue	right	yan li	yan li	li	li	li	li	distractor	41
+15-2.png	rel	book	yellow	right	book	blue	left	yan li	yan li	yan li	li	li	li	distractor	41
+16.png	rel	book	blue	right	book	yellow	left	yan pu	yan pu	ku	kun	ku	ku	distractor	41
+16-2.png	rel	book	blue	left	book	yellow	right	yan pu	yan pu	ku	ku	ku	kun	distractor	41
